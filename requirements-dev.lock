@@ -10,3 +10,11 @@
 #   universal: false
 
 -e file:.
+mypy==1.15.0
+mypy-extensions==1.0.0
+    # via mypy
+ruff==0.11.2
+tomli==2.2.1
+    # via mypy
+typing-extensions==4.13.0
+    # via mypy
