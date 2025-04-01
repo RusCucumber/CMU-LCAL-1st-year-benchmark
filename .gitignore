@@ -1,10 +1,4 @@
-/data/**
-!/data/**/
-!/data/**/.gitkeep
-
-environment/**
-!environment/**/
-!environment/**/.gitkeep
+environment/*
 
 /results/models/*.pt
 
