@@ -33,8 +33,10 @@ nest-asyncio==1.6.0
     # via semanticscholar
 numpy==2.2.4
     # via pandas
+    # via pandas-stubs
 pandas==2.2.3
     # via cmu-lcal-1st-year-benchmark
+pandas-stubs==2.2.3.250308
 python-dateutil==2.9.0.post0
     # via pandas
 pytz==2025.2
@@ -50,8 +52,17 @@ tenacity==9.0.0
     # via semanticscholar
 tomli==2.2.1
     # via mypy
+tqdm==4.67.1
+    # via cmu-lcal-1st-year-benchmark
+types-pytz==2025.2.0.20250326
+    # via pandas-stubs
+types-requests==2.32.0.20250328
+    # via types-tqdm
+types-tqdm==4.67.0.20250401
 typing-extensions==4.13.0
     # via anyio
     # via mypy
 tzdata==2025.2
     # via pandas
+urllib3==2.3.0
+    # via types-requests
