@@ -5,7 +5,10 @@ description = "Add your description here"
 authors = [
     { name = "RusCucumber", email = "w.d.ryu.m@gmail.com" }
 ]
-dependencies = []
+dependencies = [
+    "semanticscholar>=0.10.0",
+    "pandas>=2.2.3",
+]
 readme = "README.md"
 requires-python = ">= 3.8"
 
