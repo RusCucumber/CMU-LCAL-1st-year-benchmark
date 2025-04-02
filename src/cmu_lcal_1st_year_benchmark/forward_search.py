@@ -16,7 +16,7 @@ CITATION_RETRIEVE_LIMIT = 1000
 5. 結果を csv 形式で保存
 """
 
-def load_target_paper_meta_info(config: Config, filename: str ="target_paper_list") -> pd.DataFrame:
+def load_target_paper_meta_info(config: Config, filename: str ="forward_target_paper_list") -> pd.DataFrame:
     target_paper_list_path = config.raw_data_dir / f"{filename}.csv"
 
     df_target_paper_meta_info = pd.read_csv(target_paper_list_path)
