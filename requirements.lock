@@ -20,6 +20,8 @@ charset-normalizer==3.4.1
     # via requests
 exceptiongroup==1.2.2
     # via anyio
+google-search-results==2.4.2
+    # via cmu-lcal-1st-year-benchmark
 h11==0.14.0
     # via httpcore
 httpcore==1.0.7
@@ -41,10 +43,8 @@ python-dateutil==2.9.0.post0
 pytz==2025.2
     # via pandas
 requests==2.32.3
-    # via serpapi
+    # via google-search-results
 semanticscholar==0.10.0
-    # via cmu-lcal-1st-year-benchmark
-serpapi==0.1.5
     # via cmu-lcal-1st-year-benchmark
 six==1.17.0
     # via python-dateutil
