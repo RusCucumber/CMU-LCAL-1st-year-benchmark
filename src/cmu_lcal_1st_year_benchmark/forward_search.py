@@ -1,3 +1,4 @@
+import warnings
 from typing import Dict, Generator, List, Tuple
 
 import pandas as pd
@@ -37,6 +38,10 @@ def filter_duplicted_items(retrieved_items: List[dict]) -> pd.DataFrame:
     for item in retrieved_items:
         paper_id = item["citingPaper"]["paperId"]
 
+        if paper_id is None:
+            corpus_id = item["citingPaper"]["corpusId"]
+            paper_id = f"CorpusId:{corpus_id}"
+
         paper_id_set |= set([paper_id])
 
     df_citing_paper = pd.DataFrame(paper_id_set, columns=["paper_id"])
@@ -44,10 +49,22 @@ def filter_duplicted_items(retrieved_items: List[dict]) -> pd.DataFrame:
     return df_citing_paper
 
 def retrieve_paper_meta_info(paper_id: str, semantic_scholar: SemanticScholar) -> Dict[str, str]:
-    paper_meta_info = semantic_scholar.get_paper(
-        paper_id,
-        fields=["authors", "year", "title", "abstract", "externalIds"]
-    )
+    try:
+        paper_meta_info = semantic_scholar.get_paper(
+            paper_id,
+            fields=["authors", "year", "title", "abstract", "externalIds"]
+        )
+    except Exception:
+        warnings.warn(f"{paper_id} does not found in Semantic Scholar")
+        row = {
+            "author": "",
+            "year": "",
+            "title": "",
+            "abstract": "",
+            "corpus_id": paper_id,
+            "doi": ""
+        }
+        return row
 
     author_list = paper_meta_info["authors"]
     authors = ", ".join([author["name"] for author in author_list])
@@ -93,7 +110,7 @@ def main() -> None:
 
     df_citing_paper = filter_duplicted_items(retrieved_items)
 
-    data = [] # 1 record ... 1min 程度 → 取りたい情報ごとに get した方が良いかも...？
+    data = [] # 1 record ... 1min 程度 → 取りたい情報ごとに get した方が良いかも...？ (10データに 2min 33sec)
     pbar = tqdm(total=len(df_citing_paper), desc="Retrieving meta info of citing papers...")
     for paper_id in df_citing_paper["paper_id"]:
         papeer_meta_info = retrieve_paper_meta_info(paper_id, semantic_scholar)
