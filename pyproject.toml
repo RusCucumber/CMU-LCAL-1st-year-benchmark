@@ -9,6 +9,7 @@ dependencies = [
     "semanticscholar>=0.10.0",
     "pandas>=2.2.3",
     "tqdm>=4.67.1",
+    "serpapi>=0.1.5",
 ]
 readme = "README.md"
 requires-python = ">= 3.8"

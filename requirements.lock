@@ -15,6 +15,9 @@ anyio==4.9.0
 certifi==2025.1.31
     # via httpcore
     # via httpx
+    # via requests
+charset-normalizer==3.4.1
+    # via requests
 exceptiongroup==1.2.2
     # via anyio
 h11==0.14.0
@@ -26,6 +29,7 @@ httpx==0.28.1
 idna==3.10
     # via anyio
     # via httpx
+    # via requests
 nest-asyncio==1.6.0
     # via semanticscholar
 numpy==2.2.4
@@ -36,7 +40,11 @@ python-dateutil==2.9.0.post0
     # via pandas
 pytz==2025.2
     # via pandas
+requests==2.32.3
+    # via serpapi
 semanticscholar==0.10.0
+    # via cmu-lcal-1st-year-benchmark
+serpapi==0.1.5
     # via cmu-lcal-1st-year-benchmark
 six==1.17.0
     # via python-dateutil
@@ -50,3 +58,5 @@ typing-extensions==4.13.0
     # via anyio
 tzdata==2025.2
     # via pandas
+urllib3==2.3.0
+    # via requests
