@@ -36,10 +36,10 @@ def generate_paper_meta_info(df_target_paper_meta_info: pd.DataFrame) -> Generat
 def filter_duplicted_items(retrieved_items: List[dict]) -> pd.DataFrame:
     paper_id_set = set()
     for item in retrieved_items:
-        paper_id = item["citingPaper"]["paperId"]
+        paper_id = item["citedPaper"]["paperId"]
 
         if paper_id is None:
-            corpus_id = item["citingPaper"]["corpusId"]
+            corpus_id = item["citedPaper"]["corpusId"]
             paper_id = f"CorpusId:{corpus_id}"
 
         paper_id_set |= set([paper_id])
@@ -103,7 +103,7 @@ def main() -> None:
     for paper, paper_id_for_search in generate_paper_meta_info(df_target_paper_meta_info):
         pbar.set_description(f"[{paper}] Retrieving citations from Sematinc Scholar...")
 
-        citations = semantic_scholar.get_paper_references()(paper_id_for_search, limit=CITATION_RETRIEVE_LIMIT)
+        citations = semantic_scholar.get_paper_references(paper_id_for_search, limit=CITATION_RETRIEVE_LIMIT)
         retrieved_items += citations.items
 
         pbar.update(1)
@@ -120,3 +120,6 @@ def main() -> None:
 
     df_forward_search_result = pd.DataFrame(data)
     df_forward_search_result.to_csv(config.processed_data_dir / "ancestry_search_result.csv", index=False)
+
+if __name__ == "__main__":
+    main()
