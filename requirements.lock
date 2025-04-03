@@ -60,3 +60,5 @@ tzdata==2025.2
     # via pandas
 urllib3==2.3.0
     # via requests
+xlrd==2.0.1
+    # via cmu-lcal-1st-year-benchmark
