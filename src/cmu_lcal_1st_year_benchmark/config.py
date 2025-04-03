@@ -9,3 +9,5 @@ class Config:
     processed_data_dir: Path = WORK_DIR / "data/processed"
     external_data_dir: Path = WORK_DIR / "data/external"
     env_dir: Path = WORK_DIR / "environment"
+
+    eligible_pub_year = 2010
