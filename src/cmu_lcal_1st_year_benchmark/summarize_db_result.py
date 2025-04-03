@@ -198,9 +198,11 @@ def remove_doi_duplicated(df_result_merged: pd.DataFrame) -> pd.DataFrame:
     ).reset_index(drop=True)
 
     mask_doi_duplicate = df_result_merged_sorted.duplicated(subset="doi", keep="first")
-    print(f"{mask_doi_duplicate.sum()} duplicated records were detected!")
+    mask_doi_is_nan = df_result_merged_sorted["doi"].isna() | (df_result_merged_sorted["doi"] == "")
+    mask_doi = mask_doi_duplicate & (~mask_doi_is_nan) # doi が重複しており，かつ nan でない箇所
+    print(f"{mask_doi.sum()} duplicated records were detected!")
 
-    df_result_merged_unique = df_result_merged_sorted[~mask_doi_duplicate].reset_index(drop=True)
+    df_result_merged_unique = df_result_merged_sorted[~mask_doi].reset_index(drop=True)
 
     return df_result_merged_unique
 
