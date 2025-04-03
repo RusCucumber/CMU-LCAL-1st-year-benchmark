@@ -75,3 +75,5 @@ tzdata==2025.2
 urllib3==2.3.0
     # via requests
     # via types-requests
+xlrd==2.0.1
+    # via cmu-lcal-1st-year-benchmark
