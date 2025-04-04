@@ -1,0 +1,89 @@
+
+TY  - JOUR
+AU  - Taguchi, Naoko
+TI  - The Effect of L2 Proficiency and Study-Abroad Experience on Pragmatic Comprehension
+JO  - Language Learning
+VL  - 61
+IS  - 3
+SN  - 0023-8333
+UR  - https://doi.org/10.1111/j.1467-9922.2011.00633.x
+DO  - https://doi.org/10.1111/j.1467-9922.2011.00633.x
+SP  - 904
+EP  - 939
+KW  - interlanguage pragmatics
+KW  - pragmatic comprehension
+KW  - conventional and nonconventional implicatures
+KW  - routines
+KW  - study-abroad
+PY  - 2011
+AB  - This cross-sectional study examined the effect of general proficiency and study-abroad experience on pragmatic comprehension in second-language English. Participants were 25 native English speakers and 64 Japanese college students of English divided into three groups. Group 1 (n?= 22) had lower proficiency and no study-abroad experience. Group 2 (n?= 20) and Group 3 (n?= 22) had higher proficiency than Group 1 but differed in their study-abroad experience. Group 2 had no study-abroad experience, but Group 3 had a minimum of 1 year of study-abroad experience in an English-speaking country. They completed a pragmatic listening test measuring their ability to comprehend conventional and nonconventional implicatures. Group performance was compared for the comprehension accuracy scores and response times. There was a significant effect of proficiency on response times but no effect of study-abroad experience. Comprehension accuracy scores revealed mixed findings. It was advantageous for students to have study-abroad experience in the comprehension of nonconventional implicatures and routine expressions but not in indirect refusals.
+ER  - 
+
+TY  - JOUR
+AU  - Ryu, Ju-Yeon
+AU  - Horie, Kaoru
+AU  - Shirai, Yasuhiro
+TI  - Acquisition of the Korean Imperfective Aspect Markers –ko iss– and –a iss– by Japanese Learners: A Multiple-Factor Account
+JO  - Language Learning
+JA  - Language Learning
+VL  - 65
+IS  - 4
+SN  - 0023-8333
+UR  - https://doi.org/10.1111/lang.12132
+DO  - https://doi.org/10.1111/lang.12132
+SP  - 791
+EP  - 823
+KW  - second language acquisition
+KW  - Korean imperfective markers
+KW  - L1 transfer
+KW  - prototype
+KW  - pedagogical conditions
+PY  - 2015
+AB  - Although cross-linguistic research on second language tense-aspect acquisition has uncovered universal tendencies concerning the association between verbal semantics and tense-aspect markers, it is still unclear what mechanisms underlie this link. This study investigates the acquisition of two imperfective aspect markers (?ko iss? and ?a iss?) in Korean by Japanese learners to determine how cognitive universals, first language (L1) transfer, and input frequency interact. The current findings are compared with the results of Lee and Kim (2007), who studied the acquisition of the same aspect markers by L1 English learners. Both groups of learners acquired the progressive ?ko iss? earlier than the resultative ?a iss?/?ko iss?, while L1 Japanese learners acquired the resultative use of ?ko iss? earlier than L1 English learners. Japanese learners? early acquisition of the resultative ?ko iss? is likely due to L1 transfer, because Japanese has a similar imperfective marker (?te i?). We argue that cognitive universals (one-to-one principle), L1 transfer, and input frequency all contribute to the acquisition patterns of temporal morphology.
+ER  - 
+
+TY  - JOUR
+AU  - Crosthwaite, Peter Robert
+TI  - Definite Discourse–New Reference in L1 and L2: A Study of Bridging in Mandarin, Korean, and English
+JO  - Language Learning
+JA  - Language Learning
+VL  - 64
+IS  - 3
+SN  - 0023-8333
+UR  - https://doi.org/10.1111/lang.12062
+DO  - https://doi.org/10.1111/lang.12062
+SP  - 456
+EP  - 492
+KW  - bridging
+KW  - inferability
+KW  - narratives
+KW  - second language acquisition
+KW  - Mandarin
+KW  - Korean
+KW  - L2 English
+KW  - crosslinguistic influence
+PY  - 2014
+AB  - Definite expressions may be used to introduce a referent into discourse when their familiarity between speaker and listener can be inferred, a strategy known as bridging. However, for a number of reasons, bridging may be difficult to acquire compared to the acquisition of indefinite introductions for noninferable referent types, with the native language of the second language (L2) learners suggested to be a major factor influencing L2 acquisition. Two experiments were conducted into the use of bridging, using a controlled picture sequence where neutral, weakly, or strongly inferable referents were to be introduced. The first study investigated native speaker data from English, Mandarin Chinese, and Korean, and the second study focused on a cross-section of learner data from Mandarin and Korean L2 English learners from six proficiency levels ranging from A1 (Basic user) to C2 (Proficient user) of the Common European Framework. The native results show that the three languages introduce inferable referents in markedly different ways: definite articles for English, omission of numeral + classifiers before the noun for Mandarin, and with Korean making no apparent distinction for inferability in terms of noun-phrase form. The L2 results show that the acquisition of the definite article + noun construction to introduce inferable referents in L2 English occurs at lower Common European Framework levels for the Mandarin group than the Korean group. Therefore, it is claimed that Mandarin L2 English learners may have less difficulty mapping L2 syntactic form to pragmatic function in their L2 narrative production than their Korean counterparts, as a possible consequence of positive transfer from their native language.
+ER  - 
+
+TY  - JOUR
+AU  - Suzuki, Yuichi
+TI  - The Optimal Distribution of Practice for the Acquisition of L2 Morphology: A Conceptual Replication and Extension
+JO  - Language Learning
+JA  - Language Learning
+VL  - 67
+IS  - 3
+SN  - 0023-8333
+UR  - https://doi.org/10.1111/lang.12236
+DO  - https://doi.org/10.1111/lang.12236
+SP  - 512
+EP  - 545
+KW  - lag effects
+KW  - second language
+KW  - distribution of practice
+KW  - linguistic complexity
+KW  - replication
+KW  - acquisition of morphology
+PY  - 2017
+AB  - Abstract This study examined optimal learning schedules for second language (L2) acquisition of a morphological structure. Sixty participants studied the simple and complex morphological rules of a novel miniature language system so as to use them for oral production. They engaged in four training sessions in either shorter spaced (3.3-day interval) or longer spaced (7-day interval) learning conditions. From the beginning of the third training session, the 3.3-day interval group started to provide more accurate target rules than the 7-day interval group. This superior performance by the 3.3-day interval group was maintained on both 7- and 28-day delayed posttests with small to medium effect sizes. No significant difference was found between the two groups for utterance speed, nor did linguistic complexity exert an influence on the effectiveness of different distributions of learning conditions. Open Practices This article has been awarded an Open Materials badge. All materials are publicly accessible in the IRIS digital repository at http://www.iris-database.org. Learn more about the Open Practices badges from the Center for Open Science: https://osf.io/tvyxz/wiki.
+ER  - 

@@ -1,0 +1,98 @@
+
+TY  - JOUR
+AU  - Lai, Su
+AU  - Economidou-Kogetsidis, Maria
+TI  - The Effects of Strategy Instruction on Chinese EFL Learners’ Pragmatic Awareness and Pragmatic Motivation
+JO  - International Journal of Applied Linguistics
+JA  - Int J Appl Linguist.
+VL  - n/a
+IS  - n/a
+SN  - 0802-6106
+UR  - https://doi.org/10.1111/ijal.12733
+DO  - https://doi.org/10.1111/ijal.12733
+KW  - emails
+KW  - pragmatic awareness
+KW  - pragmatic motivation
+KW  - requests
+KW  - strategy instruction
+KW  - 策略教学
+KW  - 语用意识
+KW  - 语用动机
+KW  - 邮件
+KW  - 请求
+AB  - ABSTRACT This study examines the effects of strategy instruction on Chinese EFL learners? pragmatic awareness and pragmatic motivation. It further explores whether the increase in learners? pragmatic awareness (if any) is correlated with a corresponding increase in their pragmatic motivation (if any). A total of 188 university students participated in this study. Before and after instruction, they completed a motivation questionnaire to measure their pragmatic motivation, and a perception questionnaire to assess their perceptions of email politeness in student-faculty communication. They were also asked to comment on the tested emails and justify their evaluations by referring to specific linguistic features from the email messages. The 12-hour strategy instruction, conducted over one month, introduced learners to various cognitive and metacognitive pragmatics learning strategies. Results revealed that strategy instruction significantly enhanced both learners? pragmatic awareness and pragmatic motivation. Qualitative results further indicated that the instruction enabled learners to draw on a broader range of sociopragmatic factors to scaffold their pragmatic evaluations. However, no correlation was found between the increases in pragmatic awareness and pragmatic motivation, suggesting that motivation did not directly contribute to the development of pragmatic awareness.
+ER  - 
+
+TY  - JOUR
+AU  - He, Jiani
+AU  - Suzuki, Yuichi
+TI  - Distribution of grammar learning through writing tasks: A potential role of proficiency
+JO  - International Journal of Applied Linguistics
+JA  - Int J Appl Linguist.
+VL  - 34
+IS  - 1
+SN  - 0802-6106
+UR  - https://doi.org/10.1111/ijal.12498
+DO  - https://doi.org/10.1111/ijal.12498
+SP  - 367
+EP  - 382
+KW  - distributed practice
+KW  - L2 grammar learning
+KW  - lag effect
+KW  - proficiency
+KW  - writing tasks
+KW  - 滞后效应
+KW  - 二语语法学习
+KW  - 二语水平
+KW  - 写作任务
+KW  - 间时练习
+PY  - 2024
+AB  - Abstract The present study examines the optimal schedule of second language (L2) grammar practice. Fifty-four English-as-a-foreign language learners practiced using hypothetical conditionals through written production-based dictogloss tasks, accompanied by an explicit grammatical explanation, in three learning sessions over several weeks. Learners in the longer spaced group engaged in dictogloss tasks at intervals of 7 days (Day 1, 8, and 15), while those in the shorter spaced group did so at intervals of 3.5 days (Day 1, 4, and 8). Results showed that shorter spaced and longer spaced learning led to equally accurate use of the hypothetical conditionals on both 3-week and 6-week delayed posttests. The effects of practice condition on 6-week delayed posttest performance were moderated by L2 proficiency. Specifically, the retention rate after 6 weeks was greater for more proficient learners than for less proficient learners, but only in the shorter spaced group. Due to the exploratory nature of this study with small sample size, we call for more empirical research that explores the interaction between practice distribution and individual differences, including but not limited to L2 proficiency.
+ER  - 
+
+TY  - JOUR
+AU  - Lee, Teresa
+TI  - Dominant language transfer in the comprehension of L2 learners and heritage speakers
+JO  - International Journal of Applied Linguistics
+JA  - International Journal of Applied Linguistics
+VL  - 26
+IS  - 2
+SN  - 0802-6106
+UR  - https://doi.org/10.1111/ijal.12089
+DO  - https://doi.org/10.1111/ijal.12089
+SP  - 190
+EP  - 210
+KW  - transfer
+KW  - dominant language
+KW  - L2 learners
+KW  - heritage speakers
+KW  - accuracy
+PY  - 2016
+AB  - This study examines the role of the dominant language (English) in the comprehension of second language (L2) learners and heritage speakers of Korean. Dominant language influence is observed in L2 and heritage language acquisition (Montrul 2008; Odlin 1989). Based on the previous findings that transfer effects tend to be more prominent at low proficiency levels (Schwartz and Sprouse 1996), the present study examines beginning-level L2 (n = 26) and heritage learners (n = 38) of Korean whose dominant language was English. The results of a listening task involving Korean relative clauses showed that both groups exhibited transfer effects, but stronger in the L2 group. In addition, the results on error patterns showed that those with low accuracy were more prone to dominant language transfer than those with higher accuracy.
+ER  - 
+
+TY  - JOUR
+AU  - Spinelli, Franciele
+TI  - Examining learning opportunities and perceptions of Latin American ESL learners in varying proficiency-level groups
+JO  - International Journal of Applied Linguistics
+JA  - Int J Appl Linguist.
+VL  - 34
+IS  - 3
+SN  - 0802-6106
+UR  - https://doi.org/10.1111/ijal.12538
+DO  - https://doi.org/10.1111/ijal.12538
+SP  - 884
+EP  - 904
+KW  - language-related episodes
+KW  - low-proficiency learners
+KW  - peer interaction
+KW  - peers’ proficiency
+KW  - turn taking
+KW  - interacción entre pares
+KW  - competencia de compañeros
+KW  - aprendices de baja competencia
+KW  - episodios relacionados con el lenguaje
+KW  - toma de turnos
+PY  - 2024
+AB  - Abstract Learner-to-learner (peer) interaction has been integral to the second language (L2) classroom since the advent of communicative-oriented pedagogies. Despite the well-documented benefits of peer interaction, the extent to which learners benefit may be impacted by a range of factors, particularly their peers? proficiency levels. Yet studies on the influence of peers? proficiency have shown contradictory findings and are extensively focused on pairs rather than small groups. Furthermore, although low-proficiency (LP) learners experience greater impacts from interaction with peers of different proficiency levels, their interactional patterns and perspectives are underexplored. This study investigates how six Latin American learners of English (core learners) co-created learning opportunities as they interacted with non-core learners (n = 33) in three proficiency small-group interactions. A total of 18 group interactions were analysed for language-related episodes (LREs) and turn-takings. The results showed that core learners? (CLs) LREs and turns diminished as their peers? proficiency increased. However, fewer incorrect LRE resolutions were found when CLs were grouped with high-proficiency (HP) peers. The CLs also perceived the interaction with HP peers as challenging but important for their L2 development. Additionally, aside from the proficiency level, CLs acknowledged the importance of their peers? positive attitudes for the success of their interactions. These findings provide important insights into employing mixed-proficiency groups to create more optimal learning conditions, particularly for LP learners.
+ER  - 

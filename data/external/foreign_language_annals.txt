@@ -1,0 +1,254 @@
+
+TY  - JOUR
+AU  - Hirotani, Maki
+AU  - Lyddon, Paul A.
+TI  - The Development of L2 Japanese Self-Introductions in an Asynchronous Computer-Mediated Language Exchange
+JO  - Foreign Language Annals
+JA  - Foreign Language Annals
+VL  - 46
+IS  - 3
+SN  - 0015-718X
+UR  - https://doi.org/10.1111/flan.12044
+DO  - https://doi.org/10.1111/flan.12044
+SP  - 469
+EP  - 490
+KW  - asynchronous CMC
+KW  - L1 transfer
+KW  - native and nonnative speakers
+KW  - target language models
+KW  - videoconferencing
+PY  - 2013
+AB  - Abstract Computer-mediated communication is an increasingly popular means of conducting classroom language exchanges, but those requiring asynchronous modes must generally forgo oral options in favor of text. This study explores the potential of asynchronous video, focusing on 15 university learners of Japanese in the United States in an interclass project with 26 English-learning peers in Japan. Both groups performed online video self-introductions in their second language (L2) before modeling the same task in their first language, completing a language awareness?raising activity on target language models of their choice, and performing a second self-introduction in L2. The second L2 performances showed more elaborate discourse but no improvement in syntactic complexity. Implications are discussed for maximizing the pedagogical benefits of similar asynchronous online exchanges.
+ER  - 
+
+TY  - JOUR
+AU  - Kitajima, Ryu
+TI  - Does the Advanced Proficiency Evaluated in Oral-Like Written Text Support Syntactic Parsing in a Written Academic Text Among L2 Japanese Learners?
+JO  - Foreign Language Annals
+JA  - Foreign Language Annals
+VL  - 49
+IS  - 3
+SN  - 0015-718X
+UR  - https://doi.org/10.1111/flan.12212
+DO  - https://doi.org/10.1111/flan.12212
+SP  - 573
+EP  - 595
+KW  - Japanese
+KW  - pedagogy
+KW  - qualitative study
+KW  - quantitative research
+PY  - 2016
+AB  - Abstract Corpus linguistics identifies the qualitative difference in the characteristics of spoken discourse vs. written academic discourse. Whereas spoken discourse makes greater use of finite dependent clauses functioning as constituents in other clauses, written academic discourse incorporates noun phrase constituents and complex phrases. This claim can be extended to the contrast between academic written texts and more informal oral-like written texts. This study examined whether this qualitative difference in syntactic structures affects second language learners? syntactic parsing in a written academic text. For the purpose of this research, a think-aloud protocol of reading a typical written academic text was carried out with 31 undergraduate students at a U.S. university who demonstrated near-passing scores and above on the Japanese language proficiency test level 2. The statistical analysis, using Kendall's tau, revealed that advanced proficiency in terms of oral-like written texts does not guarantee the ability to parse syntactic structures in written academic texts.
+ER  - 
+
+TY  - JOUR
+AU  - Taguchi, Naoko
+TI  - Digitally mediated remote learning of pragmatics
+JO  - Foreign Language Annals
+JA  - Foreign Language Annals
+VL  - 53
+IS  - 2
+SN  - 0015-718X
+UR  - https://doi.org/10.1111/flan.12455
+DO  - https://doi.org/10.1111/flan.12455
+SP  - 353
+EP  - 358
+KW  - all languages
+KW  - distance learning
+PY  - 2020
+AB  - Abstract The COVID-19 outbreak has greatly impacted world language education. With social distancing in practice, teachers, and students have been forced to adopt distance learning. As an effort to support this shift, this paper presents a range of resources and activities available for technology-mediated remote learning of pragmatics in three categories: structured, semistructured, and unstructured digital spaces. The paper illustrates the benefits of attempts in each area and presents implicatures for teaching.
+ER  - 
+
+TY  - JOUR
+AU  - Maa, Joy
+AU  - Burns, Katharine E.
+TI  - A tale of two language ideologies: Discursive co-construction of L2 learner identity in Japanese CMC interactions
+JO  - Foreign Language Annals
+JA  - Foreign Language Annals
+VL  - 54
+IS  - 1
+SN  - 0015-718X
+UR  - https://doi.org/10.1111/flan.12514
+DO  - https://doi.org/10.1111/flan.12514
+SP  - 207
+EP  - 232
+KW  - computer-mediated communication
+KW  - culture
+KW  - discourse
+KW  - Japanese as a second language
+KW  - L2 identity
+KW  - language ideology
+PY  - 2021
+AB  - Abstract This study investigates the relationship between learner perception, ideology, discourse, and identity in computer-mediated communication (CMC) interactions between an advanced L2 Japanese learner and native Japanese speakers. Study findings show that, despite an invested identity as a proficient user of Japanese, the learner struggled to enact this identity in the face of two divergent language ideologies: one that promoted Japanese native speaker discourse as the goal of L2 learning and use, and one that promoted a particular Western ?foreigner? discourse for non-native speakers of Japanese. Furthermore, a third discourse?that of the CMC platform?also affected her discursive practices, both in terms of interaction and performance of multiple identities. These results reveal the complex, sometimes problematic, nature of CMC for L2 learning and use, while offering a unique perspective into the issue of the native speaker standard in Second Language Acquisition (SLA), particularly as it pertains to advanced learners.
+ER  - 
+
+TY  - JOUR
+AU  - Koike, Dale A.
+AU  - Palmiere, Denise T. L.
+TI  - First and Second Language Pragmatics in Third Language Oral and Written Modalities
+JO  - Foreign Language Annals
+VL  - 44
+IS  - 1
+SN  - 0015-718X
+UR  - https://doi.org/10.1111/j.1944-9720.2011.01115.x
+DO  - https://doi.org/10.1111/j.1944-9720.2011.01115.x
+SP  - 80
+EP  - 104
+KW  - Portuguese
+KW  - L3 pragmatic expression of requests
+KW  - multilingualism
+KW  - pragmatic transfer
+KW  - Spanish-speaking L3 Portuguese learners
+KW  - speech acts
+PY  - 2011
+AB  - Abstract: This study examines the transfer of first language (L1) and second language (L2) pragmatic expression?realized in the request speech act?in oral and written modalities by Spanish-speaking third language (L3) Portuguese learners (bilingual Spanish heritage speakers, native English speakers who are proficient in L2 Spanish, and native Spanish speakers). Research questions ask if learners differ in the transfer of pragmatic knowledge from the L1 or L2 in an oral versus written modality, and if the three learner groups differ in pragmatic expression in the two modalities. Results indicate that the groups respond differently in the two modalities, showing sensitivity to contextual constraints. Few instances of clear transfer are seen, mostly from Spanish at the single-word level. A picture more complex than Kellerman's hypothesis emerges, addressing creative L3 pragmatic and lexical construction.
+ER  - 
+
+TY  - JOUR
+AU  - Chen, Xi
+TI  - The pragmatic resistance of Chinese learners of Korean
+JO  - Foreign Language Annals
+JA  - Foreign Language Annals
+VL  - 55
+IS  - 4
+SN  - 0015-718X
+UR  - https://doi.org/10.1111/flan.12656
+DO  - https://doi.org/10.1111/flan.12656
+SP  - 1128
+EP  - 1151
+KW  - pragmatic choice
+KW  - pragmatic divergence
+KW  - relational affordances
+KW  - subjectivity
+PY  - 2022
+AB  - The Challenge Native-speaker norms remain influential in Korean language teaching and assessment, but do Korean language learners choose to emulate native-speaker norms? This study investigates the choice of resisting the native norms made by Chinese learners of Korean, the largest group of overseas students in Korea.
+ER  - 
+
+TY  - JOUR
+AU  - Kinginger, Celeste
+TI  - Identity and Language Learning in Study Abroad
+JO  - Foreign Language Annals
+JA  - Foreign Language Annals
+VL  - 46
+IS  - 3
+SN  - 0015-718X
+UR  - https://doi.org/10.1111/flan.12037
+DO  - https://doi.org/10.1111/flan.12037
+SP  - 339
+EP  - 358
+KW  - conflict
+KW  - identity
+KW  - pragmatics
+KW  - qualitative research
+KW  - study abroad
+PY  - 2013
+AB  - Abstract Identity, and related conflict, can influence both qualities of language learning experiences in study abroad settings and learners' choices of language to appropriate or reject. The article offers an overview of research examining the role of identity in student sojourns abroad. This research includes (1) holistic, qualitative studies of the ways in which identities shape language learning opportunities, and (2) studies examining the development of specific, identity-related pragmatic abilities. After defining identity and study abroad, the researcher organizes this article in terms of salient demographic categories represented in the literature: nationality/?foreigner? status, gender, linguistic inheritance, age status, and ethnicity. Where possible, examples of both holistic and pragmatics-oriented research are included for each category. The conclusion suggests implications for language education and the design of study abroad programs along with some avenues toward greater ecological validity in research of both kinds.
+ER  - 
+
+TY  - JOUR
+AU  - Knight, Laetitia
+AU  - Edmonds, Amanda
+TI  - Understanding indirect meaning: A close replication
+JO  - Foreign Language Annals
+JA  - Foreign Lang Ann
+VL  - 57
+IS  - 2
+SN  - 0015-718X
+UR  - https://doi.org/10.1111/flan.12719
+DO  - https://doi.org/10.1111/flan.12719
+SP  - 450
+EP  - 471
+KW  - French
+KW  - mixed methodology
+KW  - postsecondary
+KW  - pragmatics
+PY  - 2024
+AB  - Abstract Pragmatic competence covers a range of skills, including the ability to interpret indirect meaning (i.e., any instance where there is a mismatch between literal and intended meaning). Past research has suggested that indirect meaning poses comprehension challenges for learners of a second language (L2). This result has been explained with reference to the influence of proficiency and the linguistic/discourse-level conventionality of indirect meaning types. To verify and potentially extend these results, we conducted a close replication of a 2016 study of indirect meaning comprehension in L2 Spanish by Taguchi and colleagues, for which we used a group of L2 French learners. Results confirmed most of the study's findings. In our interpretation, we suggest that our results are consistent with the idea that difficulties with indirect meaning comprehension largely stem from lacunae in general oral comprehension, thus calling into question the idea that indirect meaning may be globally more difficult to interpret.
+ER  - 
+
+TY  - JOUR
+AU  - Taguchi, Naoko
+AU  - Gomez-Laich, Maria Pia
+AU  - Arrufat-Marques, Maria-Jose
+TI  - Comprehension of Indirect Meaning in Spanish as a Foreign Language
+JO  - Foreign Language Annals
+JA  - Foreign Language Annals
+VL  - 49
+IS  - 4
+SN  - 0015-718X
+UR  - https://doi.org/10.1111/flan.12230
+DO  - https://doi.org/10.1111/flan.12230
+SP  - 677
+EP  - 698
+KW  - L2 Spanish
+KW  - listening
+KW  - implicatures
+KW  - irony
+KW  - pragmatics
+PY  - 2016
+AB  - Abstract This study investigated comprehension of indirect meaning among learners of L2 Spanish via an original computer-delivered multimedia listening test. The comprehension of implied speaker intention is a type of indirect communication that involves the ability to understand implied intention by using linguistic knowledge, contextual cues, and the assumption of relevance (Taguchi, 2005, 2011). Since inferential processing involves parallel processing of all available signals, both linguistic and nonlinguistic, to interpret the indirect utterance (Sperber & Wilson, 1995), it is essential to incorporate multimedia input. By creating a multimedia comprehension test in Spanish, the study examined theoretical claims about inferential mechanisms and their applicability to L2 comprehension. Thirty-two L2 Spanish learners in intermediate/advanced Spanish classes at a private U.S. university and 21 native Spanish speakers completed a listening test that assessed comprehension of three types of indirect meaning: indirect refusals, indirect opinions, and irony. These item types differed in terms of the degree of conventionality encoded and the extent of inferencing required for comprehension. Participants? comprehension was analyzed for accuracy and comprehension speed. Results revealed a significant difference in L2 Spanish learners? comprehension accuracy scores and response times across the three item types. Irony was the most difficult to comprehend for L2 Spanish learners. Conventionality did not facilitate comprehension because indirect refusals and opinions had the same accuracy scores. In terms of response times, indirect opinions were faster to comprehend than indirect refusals and irony items. Posthoc retrospective verbal interviews revealed that learners used a wide a range of verbal, nonverbal, and contextual cues to make inferences of indirect meaning.
+ER  - 
+
+TY  - JOUR
+AU  - Tecedor, Marta
+TI  - Beginning Learners' Development of Interactional Competence: Alignment Activity
+JO  - Foreign Language Annals
+JA  - Foreign Language Annals
+VL  - 49
+IS  - 1
+SN  - 0015-718X
+UR  - https://doi.org/10.1111/flan.12177
+DO  - https://doi.org/10.1111/flan.12177
+SP  - 23
+EP  - 41
+KW  - Spanish
+KW  - alignment
+KW  - interactional competence
+KW  - interactions with peers
+PY  - 2016
+AB  - Abstract This study examined the development of interactional competence (Hall, 1993; He & Young, 1998) by beginning learners of Spanish as indexed by their use of alignment moves. Discourse analysis techniques and quantitative data analysis were used to explore how 52 learners expressed alignment and changes in participation patterns in two sets of instructional peer-to-peer conversations. The results of the analyses show that, although subject to great individual variability and not always following native-like standards, English native speakers in the early stages of learning Spanish are able to express varying degrees of alignment in conversations with a peer of a similar proficiency level. As they strive to create a sphere of mutual understanding, they test different options from their linguistic repertoire and learn not only from their own attempts but also from those of their interlocutor. These results suggest that repeated engagement in interactional practice does provide the linguistic, social, and pedagogical affordances learners need to develop the interactional skills that will serve them well not only to build confidence and competence in the classroom learning context, but also hopefully in the world outside the classroom.
+ER  - 
+
+TY  - JOUR
+AU  - Marijuan, Silvia
+AU  - Sanz, Cristina
+TI  - Expanding Boundaries: Current and New Directions in Study Abroad Research and Practice
+JO  - Foreign Language Annals
+JA  - Foreign Language Annals
+VL  - 51
+IS  - 1
+SN  - 0015-718X
+UR  - https://doi.org/10.1111/flan.12323
+DO  - https://doi.org/10.1111/flan.12323
+SP  - 185
+EP  - 204
+KW  - heritage learners
+KW  - immersion
+KW  - program design
+KW  - service-learning
+KW  - study abroad
+PY  - 2018
+AB  - Abstract In spite of advances in the understanding of the effects of the immersion experience on language and cultural development in the last three decades, many questions in study abroad (SA) research remain unanswered. The present article offers a close examination of the field as it is today with an eye toward future trends and gaps in the literature. The authors discuss how the field is being reshaped in response to the preponderant role of new technologies in research and educational practices; to constant challenges to diversify access for minority students, including heritage language learners; and to meeting the growing demands of a globalized economy and workforce. Current trends in SA program design such as the incorporation of service-learning, volunteering, and internships into the SA curriculum are also given special consideration. The article focuses on language development first and then on the factors influencing that development that are internal and external to learners. Interfaces between these areas are addressed. Subsections of the article provide an outline of an innovative SA research agenda as well as suggestions for rethinking SA program design and implementation.
+ER  - 
+
+TY  - JOUR
+AU  - Zhang, Dongbo
+AU  - Yang, Xuexue
+TI  - Chinese L2 Learners’ Depth of Vocabulary Knowledge and Its Role in Reading Comprehension
+JO  - Foreign Language Annals
+JA  - Foreign Language Annals
+VL  - 49
+IS  - 4
+SN  - 0015-718X
+UR  - https://doi.org/10.1111/flan.12225
+DO  - https://doi.org/10.1111/flan.12225
+SP  - 699
+EP  - 715
+KW  - Chinese as a second/foreign language
+KW  - reading comprehension
+KW  - vocabulary depth
+KW  - vocabulary size
+KW  - Word Associates Test
+PY  - 2016
+AB  - Abstract Using a Chinese Word Associates Test (WAT-C), this study examined the vocabulary depth of second language learners of Chinese and its contribution to the learners? reading comprehension. Results showed no significant effects of word frequency, word class (i.e., adjectives vs. verbs), and type of association relationships (i.e., paradigmatic vs. syntagmatic) on learners? WAT-C performance. More important, vocabulary depth was found to be a significant and unique predictor of reading comprehension over and above vocabulary size. On the other hand, the relative contributions of vocabulary depth and size depended on what types of texts were read and what comprehension skills were assessed. Specifically, for the long passage comprehension task with questions testing literal comprehension, vocabulary size was a more important predictor, whereas for the short passage comprehension task with questions testing inferencing, vocabulary depth was a more important predictor. These findings were discussed in light of the different levels of lexical complexity between the short and long passages and the different cognitive processing demands the questions of the two comprehension tasks placed on learners.
+ER  - 

@@ -1,0 +1,226 @@
+Provider: JSTOR http://www.jstor.org
+Database: JSTOR
+Content: text/plain; charset="UTF-8"
+
+
+TY  - JOUR
+TI  - Learning L2 Japanese "Politeness" and "Impoliteness": Young American Men's Dilemmas during Study Abroad
+AU  - Iwasaki, Noriko
+AB  - [Interviews conducted in English with four male second language (L2) learners of Japanese who studied abroad for an academic year illuminated the dilemmas they experienced during their social interactions in Japan as young American men. Dilemmas arose from within themselves and from the expectations and perceptions that native (L1) Japanese speakers had of them. On the one hand, some of the L2 learners felt discomfort with the so-called "polite" desu/masu forms that they associated with social distance, which appeared to be incompatible with friendliness that is highly valued in politeness in American English. On the other hand, they felt that L1 Japanese speakers expected American men to act and speak informally and did not expect them to use desu/masu forms or other honorifics. Some LI speakers also addressed them in the informal plain style in situations where the use of the desu/masu form is the Lᖎ Japanese norm. At the same time, they were mostly deprived of the more manly "impolite" language commonly used among young Japanese men in informal settings. These learners' use of the desu/masu forms or apparent overuse of the informal plain forms upon return can be construed as each learner's own response to these dilemmas and their struggles in indexing their social identities through the speech styles.]
+C1  - Full publication date: April 2011
+DB  - JSTOR
+EP  - 106
+IS  - 1
+PB  - American Association of Teachers of Japanese
+PY  - 2011
+SN  - 15367827
+SP  - 67
+T2  - Japanese Language and Literature
+UR  - http://www.jstor.org/stable/41151381
+VL  - 45
+Y2  - 2025/04/04/
+ER  - 
+
+
+
+
+Provider: JSTOR http://www.jstor.org
+Database: JSTOR
+Content: text/plain; charset="UTF-8"
+
+
+TY  - JOUR
+TI  - From Following Norms to Choosing Styles: Awareness of Indexical Properties of Speech Styles among Intermediate Japanese Students
+AU  - Gyogi, Eiko
+AB  - [Recent studies have criticized one-to-one mapping of linguistic forms to their meanings (Agha 2007, Cook 2008, Kasper 2006, Pizziconi 2011). In the teaching of speech styles, it has been pointed out that students' attention should be drawn to various social meanings that can be indexed by the linguistic form (Cook 2008, Pizziconi 2011). However, a question remains as to whether such awareness of indexical properties is even possible for students in the foreign language context, particularly because they have less exposure to the target language. This study examines the awareness of various indexical properties of speech styles among fourteen intermediate Japanese students in the foreign language classroom. Specifically, it analyzes the students' choice of speech styles in a task of translating an e-mail from English to Japanese before and after five study sessions that explored the various indexical properties of the Japanese language. This paper argues that awareness of various social meanings indexed by language is possible at the intermediate level, and such awareness makes students active and conscious users of the language, rather than as learners following prescriptive norms.]
+C1  - Full publication date: October 2016
+DB  - JSTOR
+EP  - 403
+IS  - 2
+PB  - American Association of Teachers of Japanese
+PY  - 2016
+SN  - 15367827
+SP  - 375
+T2  - Japanese Language and Literature
+UR  - http://www.jstor.org/stable/24892017
+VL  - 50
+Y2  - 2025/04/04/
+ER  - 
+
+
+
+
+Provider: JSTOR https://www.jstor.org
+Database: JSTOR
+Content: text/plain; charset="UTF-8"
+
+
+TY  - JOUR
+TI  - Diversity, Inclusivity, and the Importance of L2 Speaker Legitimacy
+AU  - Takeuchi, Jae DiBello
+C1  - Full publication date: OCTOBER 2020
+DB  - JSTOR
+EP  - 326
+IS  - 2
+PB  - American Association of Teachers of Japanese
+PY  - 2020
+SN  - 15367827, 23264586
+SP  - 317
+T2  - Japanese Language and Literature
+UR  - https://www.jstor.org/stable/27013678
+VL  - 54
+Y2  - 2025/04/04/
+ER  - 
+
+
+
+
+Provider: JSTOR http://www.jstor.org
+Database: JSTOR
+Content: text/plain; charset="UTF-8"
+
+
+TY  - JOUR
+TI  - Japanese Learners' Indexical Uses of the da Style in a Study Abroad Setting
+AU  - McMeekin, Abigail
+AB  - [This study explores five high-intermediate Japanese as a Foreign Language (JFL) learners' shifts from the desu/masu to da style in daily conversations with their host families during their respective study abroad, which varied from five to eight weeks in length. The main focus is on how often and in what contexts learners shift, whether these shifts are consistent with indexical uses of the da style and what might be affecting students' use of the da style. The data show that shifts for negotiation moves and subordinate clauses were most frequent and functioned as discourse organizers, indexing subordinate or tangential information. Although few in number, shifts for adjectives that indexed private expression were the most natural and target-like. Further, shifts for adjectives with the particle ne and random/anomalous instances of da-style shifts suggested that learners might have been attempting to extend their da style to include the use of sentence final particles (SFPs) or to different contexts. The findings further suggest that there is a progression of da-style use and that learners' beliefs, the quality and type of their interactions with their host families, and the use of SFPs affect learners' use and acquisition of the da style.]
+C1  - Full publication date: April 2014
+DB  - JSTOR
+EP  - 38
+IS  - 1
+PB  - American Association of Teachers of Japanese
+PY  - 2014
+SN  - 15367827
+SP  - 1
+T2  - Japanese Language and Literature
+UR  - http://www.jstor.org/stable/24394371
+VL  - 48
+Y2  - 2025/04/04/
+ER  - 
+
+
+
+
+Provider: JSTOR http://www.jstor.org
+Database: JSTOR
+Content: text/plain; charset="UTF-8"
+
+
+TY  - JOUR
+TI  - Modal Markers in Japanese: A Study of Learners' Use before and after Study Abroad
+AU  - Kizu, Mika
+AU  - Pizziconi, Barbara
+AU  - Iwasaki, Noriko
+AB  - [Japanese discourse requires speakers to index, in a relatively explicit manner, their stance toward the propositional information as well as the hearer. This is done, among other things, by means of a grammaticalized set of modal markers. Although previous research suggests that the use of modal expressions by second language learners differs from that of native users, little is known about "typical" native or non-native behavior. This study aims (a) to delineate native and non-native usage by a quantitative examination of a broad range of Japanese modal categories, and qualitative analyses of a subset of potentially problematic categories among them, and (b) to identify possible developmental trajectories, by means of a longitudinal observation of learners' verbal production before and after study abroad in Japan. We find that modal categories realized by non-transparent or non-salient markers (e.g., explanatory modality no da, or utterance modality sentence-final particles) pose particular challenges in spite of their relatively high availability in the input, and we discuss this finding in terms of processing constraints that arguably affect learners' acquisition of the grammaticalized modal markers.]
+C1  - Full publication date: April 2013
+DB  - JSTOR
+EP  - 133
+IS  - 1
+PB  - American Association of Teachers of Japanese
+PY  - 2013
+SN  - 15367827
+SP  - 93
+T2  - Japanese Language and Literature
+UR  - http://www.jstor.org/stable/24394362
+VL  - 47
+Y2  - 2025/04/04/
+ER  - 
+
+
+
+
+Provider: JSTOR http://www.jstor.org
+Database: JSTOR
+Content: text/plain; charset="UTF-8"
+
+
+TY  - JOUR
+TI  - Filling Social Space with Fillers: Gains in Social Dimension after Studying Abroad in Japan
+AU  - Iwasaki, Noriko
+AB  - [Fillers do not merely fill pauses in speaking. They play important cognitive and social functions in discourse. This paper examines how learners' use of such fillers developed among five male English-speaking learners of Japanese while studying abroad for one academic year in Japan. The quantitative and qualitative analyses of fillers in Oral Proficiency Interviews (OPI) conducted before and after study abroad reveal that while their use of fillers prior to studying in Japan seemed to be driven almost exclusively by cognitive needs (e.g., searching for words), upon return the learners' fillers more frequently served social/interpersonal purposes (e.g., mitigating comments of negative evaluation), demonstrating that language gains may be missed in studies that emphasize quantitative rather than qualitative analysis.]
+C1  - Full publication date: April 2011
+DB  - JSTOR
+EP  - 193
+IS  - 1
+PB  - American Association of Teachers of Japanese
+PY  - 2011
+SN  - 15367827
+SP  - 169
+T2  - Japanese Language and Literature
+UR  - http://www.jstor.org/stable/41151390
+VL  - 45
+Y2  - 2025/04/04/
+ER  - 
+
+
+
+
+Provider: JSTOR http://www.jstor.org
+Database: JSTOR
+Content: text/plain; charset="UTF-8"
+
+
+TY  - JOUR
+TI  - LANGUAGE PEDAGOGY
+C1  - Full publication date: October 2011
+DB  - JSTOR
+EP  - 426
+IS  - 2
+PB  - American Association of Teachers of Japanese
+PY  - 2011
+SN  - 15367827
+SP  - 343
+T2  - Japanese Language and Literature
+UR  - http://www.jstor.org/stable/41440584
+VL  - 45
+Y2  - 2025/04/04/
+ER  - 
+
+
+
+
+Provider: JSTOR http://www.jstor.org
+Database: JSTOR
+Content: text/plain; charset="UTF-8"
+
+
+TY  - JOUR
+TI  - LINGUISTICS
+C1  - Full publication date: October 2011
+DB  - JSTOR
+EP  - 560
+IS  - 2
+PB  - American Association of Teachers of Japanese
+PY  - 2011
+SN  - 15367827
+SP  - 427
+T2  - Japanese Language and Literature
+UR  - http://www.jstor.org/stable/41440585
+VL  - 45
+Y2  - 2025/04/04/
+ER  - 
+
+
+
+
+Provider: JSTOR http://www.jstor.org
+Database: JSTOR
+Content: text/plain; charset="UTF-8"
+
+
+TY  - JOUR
+TI  - "Na(a)n ya nen": Negotiating Language and Identity in the Kansai Region
+AU  - SturtzSreetharan, Cindi
+C1  - Full publication date: October 2015
+DB  - JSTOR
+EP  - 452
+IS  - 2
+PB  - American Association of Teachers of Japanese
+PY  - 2015
+SN  - 15367827
+SP  - 429
+T2  - Japanese Language and Literature
+UR  - http://www.jstor.org/stable/24615146
+VL  - 49
+Y2  - 2025/04/04/
+ER  - 

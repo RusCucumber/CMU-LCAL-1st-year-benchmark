@@ -1,0 +1,958 @@
+TY  - JOUR
+T1  - Test-takers' interaction with an L2 video listening test
+AU  - Wagner, Elvis
+JO  - System
+VL  - 38
+IS  - 2
+SP  - 280
+EP  - 291
+PY  - 2010
+DA  - 2010/06/01/
+SN  - 0346-251X
+DO  - https://doi.org/10.1016/j.system.2010.01.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0346251X10000291
+KW  - Language testing
+KW  - Language assessment
+KW  - Listening testing
+KW  - Listening ability
+KW  - Video listening test
+KW  - Test-taker behavior
+KW  - English as a second/foreign language
+KW  - Language learning
+KW  - Non-verbal communication
+KW  - Video text
+AB  - Video technology is commonly used in L2 classrooms, but it is rarely used in assessing L2 listening, and there is little research investigating how L2 listeners process video texts (spoken texts that include the visual channel). The purpose of this study is to examine how L2 test-takers interact with a video listening test: the rate L2 listening test-takers actually view the video texts used in an L2 listening test; the extent to which the viewing rate correlates with performance on the test; and the test-takers' attitudes toward the inclusion of the visual channel on listening tests. Test-takers were videotaped while taking a video listening test, and the rate they viewed the video screen was analyzed and correlated with test performance and attitudes toward the use of video texts. The results suggest that these test-takers viewed the video texts less than half of the time, and there was a weak negative correlation between viewing rate and test performance. Test-takers also reported positive attitudes toward the inclusion of the visual channel on L2 listening tests. Implications for the testing of L2 listening ability are examined.
+ER  - 
+
+TY  - JOUR
+T1  - Effects of perceptual learning style preferences on L2 lexical inferencing
+AU  - Shen, Ming-yueh
+JO  - System
+VL  - 38
+IS  - 4
+SP  - 539
+EP  - 547
+PY  - 2010
+DA  - 2010/12/01/
+SN  - 0346-251X
+DO  - https://doi.org/10.1016/j.system.2010.09.016
+UR  - https://www.sciencedirect.com/science/article/pii/S0346251X10001181
+KW  - Lexical inferencing
+KW  - Perceptual learning style preferences
+AB  - The purpose of this pilot study was to examine the effects of perceptual learning style preferences on L2 lexical inferencing and whether learners with certain perceptual learning styles benefited more from an explicitly instructional program. Joy Reid’s (1995) Perceptual Learning Style Preferences (PLSP) Inventory and a lexical inferencing test were administered to 145 EFL university students learning English as a foreign language during a 15-week reading course. The results of the study showed that (1) learners with different perceptual learning style preferences demonstrated different lexical inferencing ability, and (2) learners with certain perceptual learning style preference benefited more from the explicit instruction. The findings shed a new light on SLA research concerned with individual differences in learning lexical inferencing. The pedagogical implications of these findings are discussed, as are the suggestions for future research.
+ER  - 
+
+TY  - JOUR
+T1  - Effects of peer- versus self-editing on students’ revision of language errors in revised drafts
+AU  - Mawlawi Diab, Nuwar
+JO  - System
+VL  - 38
+IS  - 1
+SP  - 85
+EP  - 95
+PY  - 2010
+DA  - 2010/03/01/
+SN  - 0346-251X
+DO  - https://doi.org/10.1016/j.system.2009.12.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0346251X09001468
+KW  - Rule-based errors
+KW  - Non rule-based errors
+KW  - Peer-editing
+KW  - Self-editing
+KW  - Peer feedback
+AB  - Previous research on the effects of peer-editing in bringing about language development generally examined the linguistic performance of only a few students and did not focus on specific language errors nor used a control group. To counteract these limitations, this study used a pre-test/post-test comparison group quasi-experimental design to compare the effects of peer-editing to that of self-editing on students’ correction of specific language errors in revised drafts. The language errors under study are two rule-based errors (subject/verb agreement, pronoun agreement) and two non rule-based errors (wrong word choice, awkward sentence structure). Results revealed that compared to the comparison group, the experimental group significantly reduced their rule-based errors in revised drafts but not the non rule-based errors. Since both groups received teacher instruction in editing language errors, but only the experimental group engaged in peer-editing, these results may be attributed to peer-editing. The study contributes to teaching pedagogy by encouraging teachers to use peer-editing in the writing classroom and to focus on the correction of few language errors to bring about language development.
+ER  - 
+
+TY  - JOUR
+T1  - An English teacher’s developing self-efficacy beliefs in using groupwork
+AU  - Wyatt, Mark
+JO  - System
+VL  - 38
+IS  - 4
+SP  - 603
+EP  - 613
+PY  - 2010
+DA  - 2010/12/01/
+SN  - 0346-251X
+DO  - https://doi.org/10.1016/j.system.2010.09.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0346251X10001120
+KW  - Teachers’ self-efficacy
+KW  - Practical knowledge
+KW  - Groupwork
+KW  - Constructivist teacher education
+AB  - In this article, I explore how an English teacher’s self-efficacy beliefs in using groupwork developed, specifically with regard to his work with young learners, while he was engaged part-time on an in-service BA TESOL programme in the Middle East. Using qualitative case study methodology, I uncover various aspects of his self-efficacy growth, highlighting links between this and growth in his practical knowledge relating to the learners and learning, the curriculum, teaching techniques, the school context and his own sense of himself as a researcher of his own practice. Results indicate that, throughout the three-year programme, there was unevenness in growth across these various dimensions of practical knowledge, which appeared to influence the teacher’s developing self-efficacy in using groupwork in various ways. After exploring possible reasons for this, I discuss implications.
+ER  - 
+
+TY  - JOUR
+T1  - Learner characteristics and learning outcomes on a distance Spanish course for beginners
+AU  - Coleman, James A.
+AU  - Furnborough, Concha
+JO  - System
+VL  - 38
+IS  - 1
+SP  - 14
+EP  - 29
+PY  - 2010
+DA  - 2010/03/01/
+SN  - 0346-251X
+DO  - https://doi.org/10.1016/j.system.2009.12.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0346251X09001407
+KW  - Language learning
+KW  - Distance learning
+KW  - Online learning
+KW  - Learning outcomes
+KW  - Adult learners
+KW  - Learner characteristics
+AB  - Much Second Language Acquisition research focuses on young learners in the conventional classroom. Instructed adult learners, and in particular those who are learning at a distance, have attracted less attention. This group is substantial and growing: the Open University, the largest higher education language provider in the UK, alone recruits some 8000 language students a year. The present large-scale study was undertaken to explore the learner characteristics and learning experience of adult distance language learners at beginner level, the relationship of these factors with successful language learning, and the outcomes of face-to-face or online tuition. A longitudinal, quantitative design was adopted, involving pre-course and post-course questionnaires, and incorporating data on student profiles and learning outcomes. The questionnaire covered biographical variables, self-assessed initial proficiency, enjoyment and perceived achievement. This article profiles the learners and identifies factors related to successful distance language learning. Success is shown to relate to enjoyment and a sense of achieving goals. A comparison of results following online and face-to-face tuition demonstrates for the first time at scale that different modes of tuition do not necessarily lead to different learning outcomes: online language learning can be as effective as face-to-face teaching.
+ER  - 
+
+TY  - JOUR
+T1  - Relative salience of suprasegmental features on judgments of L2 comprehensibility and accentedness
+AU  - Kang, Okim
+JO  - System
+VL  - 38
+IS  - 2
+SP  - 301
+EP  - 315
+PY  - 2010
+DA  - 2010/06/01/
+SN  - 0346-251X
+DO  - https://doi.org/10.1016/j.system.2010.01.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0346251X1000031X
+KW  - Suprasegmentals
+KW  - Comprehensibility
+KW  - Accentedness
+KW  - International teaching assistants
+AB  - Suprasegmentals have been emphasized in ESL/EFL pedagogy since the advent of communicative language teaching. However, it is still unclear how individual suprasegmental features affect listeners' judgments of non-native speakers' accented speech. The current study began to specify relative weights of individual temporal and prosodic features for listeners' judgments on L2 comprehensibility and accentedness. Using the PRAAT computer program, 5 min of continuous in-class lectures from 11 international teaching assistants (ITAs) were acoustically analyzed for measures of speech rate, pauses, stress, and pitch range. Fifty eight US undergraduate students evaluated the ITAs' oral performance and commented on their ratings. The results revealed that suprasegmental features independently contributed to listeners' perceptual judgments. Accent ratings were best predicted by pitch range and word stress measures whereas comprehensibility scores were mostly associated with speaking rates. ITAs' acoustic profiles as well as listeners' comments on their rating offer practical implications to ITA program developers, ESL teachers, and future research in accented speech.
+ER  - 
+
+TY  - JOUR
+T1  - Framing, reflecting on and attending to a rationale of teaching of writing in the second language classroom via journaling: A case study
+AU  - Byrd, David R.
+JO  - System
+VL  - 38
+IS  - 2
+SP  - 200
+EP  - 210
+PY  - 2010
+DA  - 2010/06/01/
+SN  - 0346-251X
+DO  - https://doi.org/10.1016/j.system.2010.03.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0346251X10000229
+KW  - Language teaching education
+KW  - Journaling
+KW  - Reflection
+KW  - Second language writing
+KW  - Field experience
+AB  - Second language pre-service teachers in their final field experience are faced with many challenges as they move from student to professional teacher. During a particularly intense period of transition, they confront new information and issues as they move forward into actual classroom teaching. Guided reflective journals provide pre-service teachers with the opportunity to examine their situation, looking at the various input, which allows them in turn to examine their rationale of teaching. This case study examines one pre-service teacher's initial perceptions of the teaching of writing in the second language classroom and the changes manifested as tracked through her journal entries and subsequently demonstrated in her beginning and ending teaching philosophy statements. Through constant comparison methodology, the data suggest that pre-service teachers are capable of addressing and solving problems that they encounter in their coursework which will allow them to become more effective practitioners. The implications of the study suggest that pre-service second language teachers should be encouraged to move beyond simply learning information; rather they can be guided in their reflections about what is happening to inform their developing teaching skills to the benefit of their future students.
+ER  - 
+
+TY  - JOUR
+T1  - Further thoughts on Anthony Bruton’s critique of the correction debate
+AU  - Truscott, John
+JO  - System
+VL  - 38
+IS  - 4
+SP  - 626
+EP  - 633
+PY  - 2010
+DA  - 2010/12/01/
+SN  - 0346-251X
+DO  - https://doi.org/10.1016/j.system.2010.10.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0346251X1000120X
+KW  - Error correction
+KW  - Grammar correction
+KW  - Correction debate
+KW  - Writing instruction
+AB  - In this response I discuss several points that Bruton made in his own response paper. I first argue that his main theme, that design factors should be emphasized over statistical analysis, has never been a genuine issue; it is two independent issues, and for each of them I have some concerns about his discussion. I then consider his comments on our respective “points of departure”. If I have one, it is not at all what he says it is, and I find his own point of departure problematic in several respects. I also discuss, more briefly, three additional issues: his earlier accusations that I “misrepresent” the work of others and “inexplicably” fail to mention aspects of the research that might be troublesome for the case against correction, the ecological validity of research on correction, and explanations for the fact that some learners become highly skilled second language writers. I then offer a perspective on the state of the correction debate.
+ER  - 
+
+TY  - JOUR
+T1  - Hot or gelid? The influence of L1 translation familiarity on the interference effects in foreign language vocabulary learning
+AU  - Tagashira, Kenji
+AU  - Kida, Shusaku
+AU  - Hoshino, Yuko
+JO  - System
+VL  - 38
+IS  - 3
+SP  - 412
+EP  - 421
+PY  - 2010
+DA  - 2010/09/01/
+SN  - 0346-251X
+DO  - https://doi.org/10.1016/j.system.2010.03.015
+UR  - https://www.sciencedirect.com/science/article/pii/S0346251X10000746
+KW  - Foreign language vocabulary learning
+KW  - Semantic set
+KW  - Interference effect
+KW  - L1 translation familiarity
+AB  - In this study, we investigated the role of first language (L1) information in learning semantically related second language (L2) words. Research suggests that L2 learners have difficulty in learning semantically related L2 words in paired-associate learning because those semantically related words cause interference effects between them. Research also suggests that, in paired-associate learning, the degree to which the learners are familiar with the response items plays an important role in making the association. Taken together, we conducted two experiments in which semantically related L2 words and their L1 translations were used as stimulus and response items respectively. We compared the learning of different types of word pairs that have L1 translation words with different degrees of L1 word familiarity to (a) test the influence of L1 translation familiarity on interference effects and (b) assess the viability of this commonly used technique in foreign language classrooms. Native Japanese speakers attempted to learn 15 antonymous L2 word pairs with either familiar or non-familiar L1 translations. The results of the study suggest that the degree of interference in learning L2 antonymous pairs differs, depending upon the differences in the familiarity with the L1 translated words in the L2 word pairs.
+ER  - 
+
+TY  - JOUR
+T1  - Autonomous language learning against all odds
+AU  - Gao, Xuesong (Andy)
+JO  - System
+VL  - 38
+IS  - 4
+SP  - 580
+EP  - 590
+PY  - 2010
+DA  - 2010/12/01/
+SN  - 0346-251X
+DO  - https://doi.org/10.1016/j.system.2010.09.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0346251X10001119
+KW  - Case study research
+KW  - Autonomous language learning
+KW  - Motivation
+KW  - Belief
+KW  - Strategic learning efforts
+AB  - Conceptualizing learners’ individuality as dynamic and contextually situated, this paper reports on an inquiry that examined the genesis of a disabled learner’s success in learning foreign languages on the Chinese mainland. Using source texts such as the learner’s published diaries, letters and her autobiography, the inquiry revealed that language learning success could be explained by her unwavering will, unyielding beliefs and tenacious efforts in learning languages. Her narratives further unveiled the role that contextual conditions and the learner’s agency played in shaping and reshaping her motivational discourses, learning beliefs and strategic efforts. These findings help illustrate how these crucial individual difference factors interact with each other in the language learning process. They also provide further food for thought for language learners and teachers in their efforts to identify means that sustain autonomous language learning efforts in difficult conditions.
+ER  - 
+
+TY  - JOUR
+T1  - Individual learner profiles from word association tests: The effect of word frequency
+AU  - Higginbotham, George
+JO  - System
+VL  - 38
+IS  - 3
+SP  - 379
+EP  - 390
+PY  - 2010
+DA  - 2010/09/01/
+SN  - 0346-251X
+DO  - https://doi.org/10.1016/j.system.2010.06.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0346251X10000722
+KW  - Word association
+KW  - Individual
+KW  - Profile
+KW  - Vocabulary
+KW  - Frequency
+AB  - Following over 30 years of conflicting research into how second language learners respond to word association tests this paper examines an alternative approach to analyse the data, individual profiling. In contrast to previous studies this paper argues that word association studies should be focusing on individuals, as opposed to attempting to create group norms. This paper demonstrates how such profiles can be created using data collected from a study of 50 low level Japanese college students. To exemplify this approach five profiles are compared. The results of this study suggest that learners should not be analysed as homogenous groups. The results also show that when confronted with words from different frequency ranges a learner’s response type remains constant. Implications for teaching, in terms of helping individual learners to identify more efficient ways to acquire words are discussed. Problems with the study are examined and areas for further research are suggested.
+ER  - 
+
+TY  - JOUR
+T1  - The application of a course management system to enhance autonomy in learning English as a foreign language
+AU  - Sanprasert, Navaporn
+JO  - System
+VL  - 38
+IS  - 1
+SP  - 109
+EP  - 123
+PY  - 2010
+DA  - 2010/03/01/
+SN  - 0346-251X
+DO  - https://doi.org/10.1016/j.system.2009.12.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0346251X09001481
+KW  - Blended learning (BL)
+KW  - Course management system
+KW  - Learner autonomy
+KW  - Autonomous perception
+KW  - Autonomous behaviour
+KW  - Autonomous strategy
+KW  - Interdependence
+AB  - This study investigated the extent to which learner autonomy could be fostered in a blended learning situation involving the integration of a course management system into a traditional face-to-face English class. The purpose was to identify whether there was evidence that such an intervention brought about changes in the students’ perception and practice in relation to their autonomous learning. The research engaged two groups of Thai university students who enrolled on an English Foundation course. In the Thai educational context, cultural influences and normal educational practices are obstacles to the promotion of autonomous learning. The prevailing characteristics attributed to Thai learners are that they are obedient, uncritical and unwilling to challenge the authority of teachers. To promote autonomous learning in Thailand is, therefore, a challenge. The research makes use of both qualitative and quantitative methods. The data from questionnaires and student learning journals suggest that the course management system plays a prominent role in the creation and development of four aspects of learner autonomy. These are autonomous perception, autonomous behaviour, autonomous strategy and interdependence.
+ER  - 
+
+TY  - JOUR
+T1  - The impact of general and specific vocabulary knowledge on reading and listening comprehension: A case of Iranian EFL learners
+AU  - Mehrpour, Saeed
+AU  - Rahimi, Mohammad
+JO  - System
+VL  - 38
+IS  - 2
+SP  - 292
+EP  - 300
+PY  - 2010
+DA  - 2010/06/01/
+SN  - 0346-251X
+DO  - https://doi.org/10.1016/j.system.2010.01.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0346251X10000308
+KW  - Vocabulary
+KW  - Listening
+KW  - Reading
+KW  - Comprehension
+KW  - Iranian EFL learners
+AB  - The present study was carried out to determine the effect of general vocabulary knowledge and gaining familiarity with the specific vocabulary content of a reading or listening comprehension test on a group of Iranian EFL learners’ reading and listening comprehension ability. Two groups of male and female English majors (N = 58) participated in the study. In one group (the treatment group), the participants were given a reading comprehension test accompanied by a glossary which contained the meaning of the most difficult words appearing in the reading comprehension test. In the other group (the control group), the students received the same test without the glossary. The same procedure was followed for a listening comprehension test in the two groups in another session. The analysis of the data revealed that the students in the treatment group significantly outperformed those in the control group in both reading and listening comprehension tests. Further analysis of the data indicated that the learners’ knowledge of the general vocabulary content of the reading and listening comprehension texts only affected their performance on the reading comprehension test. The results of the present study shed more light on the influence of knowledge of vocabulary on reading and listening comprehension.
+ER  - 
+
+TY  - JOUR
+T1  - Learning outcomes and students' perceptions of online writing: Simultaneous implementation of a forum, blog, and wiki in an EFL blended learning setting
+AU  - Miyazoe, Terumi
+AU  - Anderson, Terry
+JO  - System
+VL  - 38
+IS  - 2
+SP  - 185
+EP  - 199
+PY  - 2010
+DA  - 2010/06/01/
+SN  - 0346-251X
+DO  - https://doi.org/10.1016/j.system.2010.03.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0346251X10000266
+KW  - Forum
+KW  - Blog
+KW  - Wiki
+KW  - Blended learning
+KW  - Reflective learning
+KW  - Collaborative learning
+KW  - Text analysis
+KW  - EFL
+AB  - This paper examines the effectiveness of three different online writing activities in formal university education: forums, blogs, and wikis. Constructivism – reflective and collaborative learning fostered by scaffolding – provides a main support for their use in education. Prior research regarding the use of blogs and wikis, especially in language education, is reviewed. The lack of detailed examination to determine learning outcomes, the absence of an evaluation mechanism, and the special difficulty language education holds for their appreciation are noted. The latter half of the paper presents exploratory research executed by the authors on the usage of forums, blogs, and wikis in an English as foreign language (EFL)-blended learning course in a university in Tokyo, Japan. A mixed-method approach was applied with survey, interview, and text analysis used for triangulation. The survey revealed students' positive perceptions of the blended course design with online writings – wikis being the most favorable, followed by blogs and forums. Qualitative text analysis of forum and wiki writings showed progress in their ability to differentiate English writing styles. The interview script analysis clarified the different merits students perceived from each activity. The variations provided by the blended course design served well in meeting challenges and were fun for them.
+ER  - 
+
+TY  - JOUR
+T1  - Advanced Cantonese ESL learners' production of English speech sounds: Problems and strategies
+AU  - Chan, Alice Y.W.
+JO  - System
+VL  - 38
+IS  - 2
+SP  - 316
+EP  - 328
+PY  - 2010
+DA  - 2010/06/01/
+SN  - 0346-251X
+DO  - https://doi.org/10.1016/j.system.2009.11.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0346251X10000321
+KW  - Speech production
+KW  - Second Language Acquisition
+KW  - Cantonese ESL learners
+KW  - Problems and strategies
+AB  - This article discusses the production of English speech sounds by advanced Cantonese ESL learners in Hong Kong. A total of forty university students participated in the study, which included three speech production tasks investigating participants' production of target English speech sounds in isolated words, minimal pairs and passages. The results of the study give confirmatory empirical evidence supporting previous literature on the pronunciation difficulties encountered by Hong Kong Cantonese ESL learners as well as the strategies they often use to overcome their pronunciation difficulties. It is suggested that speech training be included as an integral part of ESL curriculums for students of all levels, but for advanced learners of English, such programmes should be research-driven and prioritized.
+ER  - 
+
+TY  - JOUR
+T1  - Listening to students’ voices: A curriculum renewal project for an EFL graduate academic program
+AU  - Elisha-Primo, Iris
+AU  - Sandler, Simone
+AU  - Goldfrad, Keren
+AU  - Ferenz, Orna
+AU  - Perpignan, Hadara
+JO  - System
+VL  - 38
+IS  - 3
+SP  - 457
+EP  - 466
+PY  - 2010
+DA  - 2010/09/01/
+SN  - 0346-251X
+DO  - https://doi.org/10.1016/j.system.2010.02.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0346251X10000783
+KW  - EFL
+KW  - EAP
+KW  - Curriculum development
+KW  - Student perception
+KW  - Needs analysis
+AB  - This paper presents the results of the first phase of a needs analysis aiming at re-evaluating a graduate level EFL academic curriculum. Based on a self-reporting questionnaire, the responses of a graduate student population (n=469) were analyzed. The questionnaire addressed three issues: attitude toward English language and EFL studies, self-assessment of success in performing academic tasks in English, and ranking the importance of knowledge of English language areas. These issues were examined across the sample’s background variables (gender, academic department, thesis/non-thesis track, native language) and student proficiency level. The results showed that students’ attitude toward English and studying English was generally positive. Furthermore, students reported their ability in performing different tasks to be satisfactory. In addition, all students found all the areas of language knowledge to be important. Ranking of relative importance of English language areas revealed that vocabulary and oral skills were significantly more important than syntax and grammar, reading, and writing. Yet, for all issues, across background variables and level, significant differences were found. Our findings warrant a re-evaluation of the current program, but also raise questions regarding whose voices are to be considered when developing an EFL academic graduate program.
+ER  - 
+
+TY  - JOUR
+T1  - Developing cultural awareness and intercultural communication through multimedia: A case study from medicine and the health sciences
+AU  - Hamilton, Jan
+AU  - Woodward-Kron, Robyn
+JO  - System
+VL  - 38
+IS  - 4
+SP  - 560
+EP  - 568
+PY  - 2010
+DA  - 2010/12/01/
+SN  - 0346-251X
+DO  - https://doi.org/10.1016/j.system.2010.09.015
+UR  - https://www.sciencedirect.com/science/article/pii/S0346251X10001156
+KW  - Intercultural communication
+KW  - English as an additional language
+KW  - TESOL
+KW  - Clinical communication
+KW  - Reflective learning practice
+KW  - Multimedia
+KW  - Medicine
+AB  - Awareness of how different cultural beliefs may influence one’s own and others’ linguistic choices is fundamental to successful spoken communication, particularly in intercultural professional settings such as contemporary healthcare. The aim of this paper is to outline how this sensitivity can be enhanced through teaching that develops reflectiveness as practice for analyzing and understanding the interrelationship of language, communication and culture. The setting is an intercultural ESP learning context supporting international students in undergraduate medical and health sciences education. A multimedia tool was developed as a trigger for the teacher to assist learners to explore, understand, and take into account the interrelationship between language, culture and communication in healthcare settings. The multimedia tool includes a series of ‘voxpop’ style interviews with students to give voice to the students’ perceptions and experiences of their clinical experience in Australia. Simulated interactions of these ESP learners in clinical settings provide triggers for classroom discussion, build reflective practice skills, and develop the requisite language competence and clinical communication skills. The discussion includes strategies for implementation and evaluation of the multimedia supported methodology.
+ER  - 
+
+TY  - JOUR
+T1  - A comparative analysis of pre-and in-service teacher beliefs about readiness and self-competency: Revisiting teacher education for ELLs
+AU  - Polat, Nihat
+JO  - System
+VL  - 38
+IS  - 2
+SP  - 228
+EP  - 244
+PY  - 2010
+DA  - 2010/06/01/
+SN  - 0346-251X
+DO  - https://doi.org/10.1016/j.system.2010.03.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0346251X10000242
+KW  - Teacher education
+KW  - Teacher beliefs
+KW  - English language learners
+KW  - Self-competency
+KW  - Readiness
+KW  - Program improvement
+AB  - This study addresses differences between pre-and in-service teacher beliefs about readiness and self-competency in helping English language learners' (ELL) language and academic achievement in content area classes. It also examines the role of gender and certain background factors in mediating differences in beliefs while providing suggestions to help pre-service teachers become ready for ELLs in mainstream classes. Three beliefs questionnaires were administered to 83 in-service and 88 pre-service teachers (n=171). The multivariate analyses suggested several significant differences between pre-and in-service teachers' beliefs about self-competency and readiness as well as specific recommendations to improve teacher education to better serve ELLs in mainstream classes. Yet, findings also revealed that gender and some background factors appeared to play a role in mediating some of these differences in beliefs. By bringing together the perspectives of both the teachers in training and those in the classroom, this study suggests that content area teachers feel unprepared and unready for mainstream classes with ELLs where they spend most of their school day. Consistent with current approaches to teacher education that aim to empower teachers, these findings, likewise, urge for a teacher-beliefs-driven approach to content area teacher education to ensure equal and inclusive opportunities for all students.
+ER  - 
+
+TY  - JOUR
+T1  - Holistic and analytic processing modes in non-native learners’ performance of narrative tasks
+AU  - Ben Maad, Mohamed Ridha
+JO  - System
+VL  - 38
+IS  - 4
+SP  - 591
+EP  - 602
+PY  - 2010
+DA  - 2010/12/01/
+SN  - 0346-251X
+DO  - https://doi.org/10.1016/j.system.2010.09.013
+UR  - https://www.sciencedirect.com/science/article/pii/S0346251X10001132
+KW  - Formulae
+KW  - Information-processing
+KW  - Limited capacity
+KW  - Oral production
+AB  - Cognitive psychology has gained currency in the study of second language learning with focus on how real-time language use proceeds through two main processing modes: an analytic processing (rule-based) mode and a holistic processing (lexically-based) mode (Skehan, 1998). However, to date there has been little experimental evidence to document the nature of the relationship between these two processing modes. The present paper reports on a study which was designed (i) to explore how both of these modes are represented in the oral production of non-native learners of English and (ii) to determine whether language learners switch from one mode to another in the face of increasing cognitive demands during task engagement. Participants in this study were 30 Tunisian undergraduate students of English who performed three narrative tasks along three tape-recording episodes. The analysis of the transcribed findings revealed that these participants activated their holistic processing mode for lexical retrieval at the beginning of their performance when the tasks were not demanding. However, they fell back on the analytic processing mode when faced with the increasing processing load due to time pressure and lack of planning. The results not only shed empirical light on how the extent of formulaicity in learners’ language may influence their processing decisions but also have pedagogical implications for speaking skill development.
+ER  - 
+
+TY  - JOUR
+T1  - The effect of cooperative learning techniques on college students’ reading comprehension
+AU  - Jalilifar, Alireza
+JO  - System
+VL  - 38
+IS  - 1
+SP  - 96
+EP  - 108
+PY  - 2010
+DA  - 2010/03/01/
+SN  - 0346-251X
+DO  - https://doi.org/10.1016/j.system.2009.12.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0346251X0900147X
+KW  - Team study
+KW  - Conventional Instruction
+KW  - Group Investigation
+KW  - Student Team Achievement Divisions
+AB  - This study investigated the impact of Student Team Achievement Divisions (STAD) and Group Investigation (GI), which are two techniques of Cooperative Learning, on students’ reading comprehension achievement of English as a Foreign Language (EFL). After administering an English Language Proficiency test (Fowler and Coe, 1976), 90 homogeneous pre-intermediate female college students were selected, and they were randomly assigned to three groups: two experimental and one control. The experimental groups (A and B) received instruction according to STAD and GI techniques respectively whereas the control group was instructed via the Conventional Instruction (CI) technique which followed an individualistic instructional approach based on the exercises in their regular textbook. A post-test was administered, and its results were analyzed through a one-way ANOVA and post hoc Scheffe statistics. The results revealed that STAD is a more effective technique in improving EFL reading comprehension achievement whereas GI and CI did not enhance reading comprehension significantly. Team rewards, as one of the central concepts of STAD, may have a strong impact on learners’ performance in reading comprehension.
+ER  - 
+
+TY  - JOUR
+T1  - A case study on foreign English teachers’ challenges in Taiwanese elementary schools
+AU  - Chen, Cheryl Wei-yu
+AU  - Cheng, Yuh-show
+JO  - System
+VL  - 38
+IS  - 1
+SP  - 41
+EP  - 49
+PY  - 2010
+DA  - 2010/03/01/
+SN  - 0346-251X
+DO  - https://doi.org/10.1016/j.system.2009.12.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0346251X09001420
+KW  - Foreign English teachers
+KW  - Teaching-abroad experiences
+AB  - With the spread of English as the global language, many people from English-speaking countries go to foreign land to work as English teachers. A review of the literature reveals that there is little research on these teachers’ teaching-abroad experiences. The current study is an attempt to address this gap in the literature. Situated in an intercultural team-teaching program in Taiwan, this study documents the many challenges that three South African teachers faced. The data suggest that one common challenge is doubts on their accents. They also confronted various problems, including having to teach something they were not familiar with, managing misbehaved students, and teaching large classes. The study calls for a better preparation for foreign English teachers before they begin their teaching assignments.
+ER  - 
+
+TY  - JOUR
+T1  - Some thoughts on Anthony Bruton’s critique of the correction debate
+AU  - Truscott, John
+JO  - System
+VL  - 38
+IS  - 2
+SP  - 329
+EP  - 335
+PY  - 2010
+DA  - 2010/06/01/
+SN  - 0346-251X
+DO  - https://doi.org/10.1016/j.system.2010.03.014
+UR  - https://www.sciencedirect.com/science/article/pii/S0346251X10000400
+KW  - Error correction
+KW  - Correction debate
+KW  - Writing instruction
+AB  - In a recent paper, Anthony Bruton argued that correction receives too much attention and that the debate over it (which he calls “the Truscott debate”) is “a rather tedious sterile academic debate” that has harmed the field. He dismissed the case against correction, based on arguments that uncorrected students do not improve, some general objections to the research evidence, and a claim that in presenting it I omitted troublesome information and misrepresented one of the relevant studies. His alternative view is that common sense tells us correcting students’ errors is appropriate. In this response I address these points, emphasizing his comments on the evidence and the way I presented it. I conclude that he has not provided any substantive support for his claims and that his comments do not alter the conclusion that correction is a failure and has no place in second language writing classes.
+ER  - 
+
+TY  - JOUR
+T1  - Professional knowledge in action: How experienced ESOL teachers respond to feedback from learners within syllabus and contextual constraints
+AU  - Wette, Rosemary
+JO  - System
+VL  - 38
+IS  - 4
+SP  - 569
+EP  - 579
+PY  - 2010
+DA  - 2010/12/01/
+SN  - 0346-251X
+DO  - https://doi.org/10.1016/j.system.2010.09.017
+UR  - https://www.sciencedirect.com/science/article/pii/S0346251X10001193
+KW  - Teacher cognition
+KW  - Feedback from learners
+KW  - Second language teaching
+KW  - ESOL curriculum
+AB  - It is now generally acknowledged that teachers are curriculum makers and adapters rather than mere transmitters of written plans and prescriptions. This study reports on the curriculum making practices of three capable, experienced teachers of adult ESOL in high, medium and low-constraint contexts over the duration of one complete course for each teacher. Through iterative interviewing and analysis of curriculum documents, it details the tentativeness and sketchiness of teachers’ written planning (particularly in the pre-course phase). It goes on to describe how teachers’ plans were constantly revised in response to the powerful influence of learner feedback, received through explicit negotiations and responses as well as their own perceptions about the way the instructional curriculum was being received. Teachers in all three types of instructional context responded to learners’ developmental and affective needs in a variety of ways, and to the fullest extent possible within the constraints of their teaching situations and their own theories of best practice. Study findings indicate the importance of assisting novice teachers to acquire awareness and abilities in this area as a goal for second language teacher education. Areas of research are suggested as possible further contributions to the development of an epistemology of practice for TESOL.
+ER  - 
+
+TY  - JOUR
+T1  - Learning beliefs of distance foreign language learners in China: A survey study
+AU  - Zhang, Xiuyuan
+AU  - Cui, Gang
+JO  - System
+VL  - 38
+IS  - 1
+SP  - 30
+EP  - 40
+PY  - 2010
+DA  - 2010/03/01/
+SN  - 0346-251X
+DO  - https://doi.org/10.1016/j.system.2009.12.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0346251X09001419
+KW  - Beliefs
+KW  - Distance education
+KW  - Foreign language learning
+KW  - Distance learning
+KW  - English
+KW  - Autonomy
+AB  - This survey study investigated learning beliefs held by distance English language learners in China. Beliefs about the nature of language learning, the role of the teacher, the role of feedback, language learning strategies, and self-efficacy were examined through survey instruments. The main research focus was on the difficulties perceived by distance language learners, their readiness for autonomous approaches to English learning, and the differences in beliefs between beginner distance learners and those with more distance education experience. It was found that the majority of the participants perceived insufficient communication with teachers and peer students as the dominant difficulty in distance learning, and that distance language learning was more difficult than traditional classroom language learning. Results also revealed that distance language learners with more distance learning experience believed more strongly in the benefits of an autonomous approach to learning and had a lower degree of anxiety and frustration than those at beginner level.
+ER  - 
+
+TY  - JOUR
+T1  - First publications in refereed English journals: Difficulties, coping strategies, and recommendations for student training
+AU  - Cheung, Yin Ling
+JO  - System
+VL  - 38
+IS  - 1
+SP  - 134
+EP  - 141
+PY  - 2010
+DA  - 2010/03/01/
+SN  - 0346-251X
+DO  - https://doi.org/10.1016/j.system.2009.12.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0346251X0900150X
+KW  - Hong Kong applied linguistics students
+KW  - Publication
+KW  - Refereed journals
+AB  - This research studies the first attempts by applied linguistics doctoral students in Hong Kong to publish their work in a refereed journal in English. Interviews were conducted with students to learn about their experience in the publication process. The interview data indicate that the applied linguistics doctoral students adopted specific strategies in tackling difficulties that arose in their publication efforts. The strategies included selecting areas of study which they were familiar with for their research, reading articles in past issues of targeted journals, and seeking assistance from their dissertation supervisors. All the interviewees received comprehensive comments and criticism from the reviewers and editors of English language journals, while an absence of comments was a characteristic of Chinese language journals. The doctoral students in this study felt that reviewers and editors of English language journals were sympathetic toward non-native English speaking writers with regard to their problems in grammar, language usage, and writing style. Some suggestions are made for informed teaching in EFL contexts and to better prepare applied linguistics doctoral students for effective writing for publication.
+ER  - 
+
+TY  - JOUR
+T1  - Lexical gap-filling mechanisms in foreign language writing
+AU  - Agustín Llach, M. Pilar
+JO  - System
+VL  - 38
+IS  - 4
+SP  - 529
+EP  - 538
+PY  - 2010
+DA  - 2010/12/01/
+SN  - 0346-251X
+DO  - https://doi.org/10.1016/j.system.2010.09.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0346251X10001090
+KW  - Lexical gap
+KW  - Lexical innovation
+KW  - EFL Spanish learners
+AB  - The present paper intends to investigate the lexical gap-filling behaviour of primary and secondary Spanish learners of English. When there is a mismatch between the learners lexical knowledge and their communicative needs, then a lexical gap arises. Learners resort to different mechanisms to compensate for that lack of lexical knowledge. Basically, we distinguish among several L1- and L2-based mechanisms. We analysed the lexical gap-filling behaviour of 203 learners in their written compositions. We collected data when students were in 4th grade of Primary Education and four years later when they were in 8th grade. Results revealed that as learners progress in their learning of the foreign language they gradually abandon use of the L1 and substitute L1-based mechanisms such as borrowings, coinages and calques by other L2-based ones such as semantic and formal approximations, circumlocutions, and use of general words. We observed that L2 proficiency interrelates with L1 and L2 influence in different ways depending on the specific mechanism used, so that some mechanisms which are frequent at 4th grade decrease their presence, basically borrowing, and some other tend to increase, basically L2-based mechanisms as linguistic proficiency, awareness and cognitive development increase.
+ER  - 
+
+TY  - JOUR
+T1  - Critical incidents and language learning: Sensitivity to initial conditions
+AU  - Finch, Andrew
+JO  - System
+VL  - 38
+IS  - 3
+SP  - 422
+EP  - 431
+PY  - 2010
+DA  - 2010/09/01/
+SN  - 0346-251X
+DO  - https://doi.org/10.1016/j.system.2010.05.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0346251X10000813
+KW  - Complexity
+KW  - Critical incidents
+KW  - Emergence
+KW  - Noticing
+KW  - Sensitivity to initial conditions
+AB  - Critical incident theory has helped teachers to reflect on their teaching practice and elicit ways of improving it through identification of preconceptions and through reflection on the significance of unplanned incidents. This paper adapts these ideas to the perspective of language learners, in order to promote awareness and development of learning through conscious reflection. Recognizing that language learning is a complex, dynamic process, with numerous interacting and often unpredictable factors, the research incorporates aspects of complexity theory, according to which, apparently insignificant ‘initial’ events can determine the way in which global structures (e.g. learning) ‘emerge’ over the long term. Awareness of this concept can enable students and teachers to facilitate positive critical incidents and avoid harmful ones. In investigating the significance of ‘sensitivity to initial conditions’ in terms of language learning, this study invited graduate and undergraduate students to reflect on their learning over a semester and to identify critical incidents from their previous elementary and secondary schooling. Analysis of their responses led to the conclusion that sensitivity to initial events (critical incidents) does occur in language learning, but that the learner needs to ‘notice’ the incidents for triggering or realization to take place and to influence subsequent learning.
+ER  - 
+
+TY  - JOUR
+T1  - The analysis of Toulmin elements in Chinese EFL university argumentative writing
+AU  - Qin, Jingjing
+AU  - Karabacak, Erkan
+JO  - System
+VL  - 38
+IS  - 3
+SP  - 444
+EP  - 456
+PY  - 2010
+DA  - 2010/09/01/
+SN  - 0346-251X
+DO  - https://doi.org/10.1016/j.system.2010.06.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0346251X10000758
+KW  - Argumentative writing
+KW  - The Toulmin model of argument structure
+KW  - Chinese undergraduate English-majors
+AB  - This descriptive study aims to analyze structures of argumentative papers written by second language (L2) university students, based on the adapted Toulmin, 1958, Toulmin, 2003 model of argument structure constituting six elements (i.e., claim, data, counterargument claim, counterargument data, rebuttal claim, and rebuttal data). It also investigates how the uses of these Toulmin elements are related to the overall quality of argumentative papers. One hundred and thirty-three second-year university English-majors in a Chinese university wrote an argumentative paper in English after reading two preselected English opinion pieces with opposing views on the same controversial topic. The Toulmin elements in the students’ papers were analyzed and the quality of papers was assessed. It was found that an average paper had at least one claim supported by four pieces of data. However, there were far fewer uses of counterargument claim, counterargument data, rebuttal claim, and rebuttal data in the papers, although their uses were significant predictors of the overall quality of argumentative papers. Potential implications of the findings are discussed as they pertain to L2 argumentative writing pedagogy.
+ER  - 
+
+TY  - JOUR
+T1  - Affect in a self-regulatory framework for language learning
+AU  - Bown, Jennifer
+AU  - White, Cynthia J.
+JO  - System
+VL  - 38
+IS  - 3
+SP  - 432
+EP  - 443
+PY  - 2010
+DA  - 2010/09/01/
+SN  - 0346-251X
+DO  - https://doi.org/10.1016/j.system.2010.03.016
+UR  - https://www.sciencedirect.com/science/article/pii/S0346251X1000076X
+KW  - Affect
+KW  - Self-regulation
+KW  - Emotion
+AB  - In spite of the acknowledged importance of emotion in language learning and teaching, the field of applied linguistics has struggled to account for the role of affect in these processes. This article examines the way affect has been defined and investigated in language learning, including the nature and scope of that research and the gaps and limitations of research approaches to date. Drawing on social cognitive theory (Bandura, 2002, Martinez-Pons, 2002), and research on the intelligent processing of emotions (Goetz et al., 2005), we propose an approach to understanding affect in SLA through a self-regulatory framework. Case studies of three students learning Russian through independent study are presented to illustrate how integral the regulation of affect was to their learning experiences and choices. Regulation of affect involved cognitive appraisals of emotional antecedents and the applying of cognitive abilities to perceive, reflect on, and regulate emotions. We conclude by arguing the need for more attention to and a broader perspective on students’ affective experiences in the process of second language acquisition.
+ER  - 
+
+TY  - JOUR
+T1  - The L2 motivational self system, L2 anxiety, and motivated behavior: A structural equation modeling approach
+AU  - Papi, Mostafa
+JO  - System
+VL  - 38
+IS  - 3
+SP  - 467
+EP  - 479
+PY  - 2010
+DA  - 2010/09/01/
+SN  - 0346-251X
+DO  - https://doi.org/10.1016/j.system.2010.06.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0346251X10000734
+KW  - The L2 motivational self system
+KW  - Ideal L2 self
+KW  - Ought-to L2 self
+KW  - English learning experience
+KW  - English anxiety
+AB  - The present study takes the initiative to test a theoretical model that subsumes the ideal L2 self, the ought-to L2 self, and the L2 learning experience in Dörnyei, 2005, Dörnyei, 2009 L2 motivational self system, as well as English anxiety and intended effort to learn English. A number of 1011 Iranian high school students completed a questionnaire survey specifically developed to be used in the context of Iran. Using AMOS version 16.0, structural equation modeling was run to analyze the proposed model. Based on several goodness-of-fit criteria, the results confirmed the validity of the anticipated construct. It was found that all the variables in the model significantly contributed to intended effort; however, while the ideal L2 self and the L2 learning experience decreased students’ English anxiety, the ought-to L2 self significantly made them more anxious. The results are discussed based on the socio-educational context of Iran.
+ER  - 
+
+TY  - JOUR
+T1  - Dynamicity of motivation, anxiety and cooperativeness in a semester course
+AU  - Koga, Tsutomu
+JO  - System
+VL  - 38
+IS  - 2
+SP  - 172
+EP  - 184
+PY  - 2010
+DA  - 2010/06/01/
+SN  - 0346-251X
+DO  - https://doi.org/10.1016/j.system.2010.03.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0346251X10000217
+KW  - Motivational development
+KW  - Anxiety
+KW  - Communication apprehension
+KW  - Cooperativeness
+AB  - Motivation is one of the most frequently discussed variables due to its crucial role in successful second or foreign language learning. Several studies have shown the construct of motivation and relationships between motivational components and language achievement. However, it is still unclear whether or not these individual-difference variables can be developed or undermined in a classroom context. In this study, the dynamicity of individual-difference variables during 15-week university English courses in Japan was investigated. A total of seven variables were examined: test and English classroom anxiety, persistence, motivation to learn English, integrative orientation, instrumental orientation, communication apprehension, and cooperativeness. The results indicated that learners' anxiety and their sense of cooperativeness changed significantly, but other variables showed a stabilizing tendency from a global perspective. However, an individual analysis revealed that learners with high motivation showed the upholding of motivational components, whereas learners with low motivation showed the positive development of them. Finally, the decrease in communication apprehension that was assumed to be caused by the increase in cooperativeness led to the disappearance of negative relationships between communication apprehension and motivational variables.
+ER  - 
+
+TY  - JOUR
+T1  - Does second language writing research impact U.S. university foreign language instruction?
+AU  - Hubert, Michael D.
+AU  - Bonzo, Joshua D.
+JO  - System
+VL  - 38
+IS  - 4
+SP  - 517
+EP  - 528
+PY  - 2010
+DA  - 2010/12/01/
+SN  - 0346-251X
+DO  - https://doi.org/10.1016/j.system.2010.09.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0346251X10001107
+KW  - Second language writing
+KW  - Foreign language writing
+KW  - Pedagogy
+KW  - Survey
+AB  - Most university FL courses currently include some form of writing as part of their curricula. However, FL instructors do not seem to agree with respect to how writing should be utilized in the classroom. Some attempt to integrate insights from the broader field of second language (L2) writing research, teaching their students to use rhetorical and organizational devices and strategies in addition to the more traditional focus on grammatical and vocabulary. However, most university FL instructors appear to use writing only as means of introducing and/or reinforcing other aspects of language learning. Unfortunately, the reasons behind this disparity are not well understood. In an attempt to describe the extent to which L2 writing research is currently informing university FL instruction, a survey was administered to 153 FL instructors working at universities within the United States. Survey respondents described their level of knowledge concerning six important theories informing L2 writing research, as well as indicated the extent to which these theories inform their FL teaching. Survey results reveal low levels of both knowledge and implementation of the six theories among these FL instructors. Outreach by L2 writing researchers is recommended.
+ER  - 
+
+TY  - JOUR
+T1  - Profiling the Academic Word List (AWL) in a financial corpus
+AU  - Li, Yongyan
+AU  - Qian, David D.
+JO  - System
+VL  - 38
+IS  - 3
+SP  - 402
+EP  - 411
+PY  - 2010
+DA  - 2010/09/01/
+SN  - 0346-251X
+DO  - https://doi.org/10.1016/j.system.2010.06.015
+UR  - https://www.sciencedirect.com/science/article/pii/S0346251X10000837
+KW  - The Academic Word List (AWL)
+KW  - AWL coverage
+KW  - Specialized corpus
+KW  - Vocabulary teaching
+KW  - Financial corpus
+AB  - The Academic Word List (AWL) (Coxhead, 2000) was a word list systematically established on the basis of a computerized academic corpus. The 570 word families, which supposedly represent high-frequency academic words across a range of disciplines, have provided valuable reference for vocabulary pedagogy, while inspiring the development of some more specialized academic word lists. However, to effectively utilize the AWL in relation to vocabulary teaching that draws on a specialized corpus, it will be necessary to evaluate the presence of the AWL in the corpus. The present study aims to profile the presence of the AWL items in the Hong Kong Financial Services Corpus (HKFSC), and to explore ways to effectively teach the AWL items in the corpus.
+ER  - 
+
+TY  - JOUR
+T1  - The comparative analysis of motivation, attitudes and selves: The case of English and German in Hungary
+AU  - Csizér, Kata
+AU  - Lukács, Gabriella
+JO  - System
+VL  - 38
+IS  - 1
+SP  - 1
+EP  - 13
+PY  - 2010
+DA  - 2010/03/01/
+SN  - 0346-251X
+DO  - https://doi.org/10.1016/j.system.2009.12.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0346251X09001390
+KW  - Motivation
+KW  - Ideal L2 self
+KW  - Attitudes
+KW  - Foreign language learning
+AB  - The research reported in this paper investigates how the motivational and attitudinal dispositions of students who learnt both English and German simultaneously at the time of data collection differ for the two foreign languages. The study is based on data gathered with the help of a standardised questionnaire from 237 16/17-year-old learners of English and German. Based on Dörnyei’s (2005) L2 Motivational System, it can be concluded that students’ Ideal L2 self proved to be the most significant component of predicting motivated learning behaviour for both English and German as a first or second foreign language. However, only English as a first foreign language (as opposed to as a second foreign language) was appraised with solely positive attitudes and dispositions by the students. For German (either first or second foreign language) and English as a second foreign language, the negative effects of the motivational dimensions related to the other foreign language cannot be neglected. In order to explain the complex results, they will be discussed within the framework of the Dynamic Systems Theory (DST; Dörnyei, 2009).
+ER  - 
+
+TY  - JOUR
+T1  - Language teacher cognitions: Complex dynamic systems?
+AU  - Feryok, Anne
+JO  - System
+VL  - 38
+IS  - 2
+SP  - 272
+EP  - 279
+PY  - 2010
+DA  - 2010/06/01/
+SN  - 0346-251X
+DO  - https://doi.org/10.1016/j.system.2010.02.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0346251X1000028X
+KW  - Language teacher cognition
+KW  - Complex systems theory
+KW  - Language teacher development
+KW  - Teacher beliefs
+KW  - Practical theory
+KW  - EFL
+KW  - English language teacher
+KW  - EFL in Armenia
+AB  - Language teacher cognition research is a growing field. In recent years several features of language teacher cognitions have been noted: they can be complex, ranging over a number of different subjects; they can be dynamic, changing over time and under different influences; and they can be systems, forming unified and cohesive personal or practical theories. However, as yet there is no single theoretical framework for studying language teacher cognitions. In this article I propose that complex systems theory might offer such a framework. I offer an exploratory investigation of the applicability of complex systems theory by focusing on the re-analysis of a previously published case study of the practical theory of an English language teacher teaching EFL in Armenia. I do this by discussing and presenting evidence of heterogeneity, dynamics, non-linearity, openness, and adaptation, which characterize complex systems, and are displayed by the EFL teacher's cognitions. I conclude by suggesting that complex systems theory is compatible with other lines of research, is able to be developed in field-specific ways, offers several lines of research as well as different methodological approaches, and has practical implications for language teacher development.
+ER  - 
+
+TY  - JOUR
+T1  - The impact of the interactive whiteboard on the teacher and children’s language use in an ESL immersion classroom
+AU  - Coyle, Yvette
+AU  - Yañez, Lorena
+AU  - Verdú, Mercedes
+JO  - System
+VL  - 38
+IS  - 4
+SP  - 614
+EP  - 625
+PY  - 2010
+DA  - 2010/12/01/
+SN  - 0346-251X
+DO  - https://doi.org/10.1016/j.system.2010.10.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0346251X1000117X
+KW  - Interactive whiteboard
+KW  - Classroom interaction
+KW  - ESL immersion context
+KW  - Primary education
+AB  - As a teaching resource, interactive whiteboards (IWB) are becoming increasingly popular in schools outside the UK, including Spain. Research carried out so far has tended to examine the effects of IWB use on teaching and learning in monolingual contexts where English is the first language for learners. The present study adds a new dimension to available work by analysing the influence of the IWB on the language use of a primary school teacher and a group of native speaker (NS) and non-native speaker (NNS) children in an English language immersion classroom. The study reveals that while the teacher used the IWB to support the children’s learning by taking advantage of multimedia presentations in Numeracy and Literacy and by creating opportunities for the children to engage in tactile interaction with the board, opportunities to participate in the dialogic interaction beyond the production of one or two word utterances were much more limited and largely restricted to the NS children in the group. Since the failure to promote verbal interaction has important implications for the NNS pupils in the class, it is suggested that teacher education programmes should focus on developing teachers’ classroom interactional competence as well as their technological skills.
+ER  - 
+
+TY  - JOUR
+T1  - Classroom interactions of teachers and elementary school Pupils as observed during a musical project in a Japanese elementary school
+AU  - Nishida, Rieko
+AU  - Yashima, Tomoko
+JO  - System
+VL  - 38
+IS  - 3
+SP  - 480
+EP  - 490
+PY  - 2010
+DA  - 2010/09/01/
+SN  - 0346-251X
+DO  - https://doi.org/10.1016/j.system.2010.03.017
+UR  - https://www.sciencedirect.com/science/article/pii/S0346251X10000771
+KW  - Young learners
+KW  - Socio-cultural (Vygotskyan) perspective
+KW  - Scaffolding
+KW  - ZPD
+AB  - This study focuses on the nature of classroom interactions in an EFL classroom context among young learners from a socio-cultural theoretical perspective. During the year 2007, a musical project was carried out at a public elementary school in Osaka, Japan; all the fifth graders, 126 students, aged 10–11, participated in the musical project. Of these, thirty-two students of class A (15 boys and 17 girls) participated in the present study for classroom video recordings. Seven classroom lessons lasting 45 min each were conducted between September 2007 and January 2008. The data from three protocols were transcribed into a written format from the original video recordings and a teacher’s observation notes were also obtained. The researchers investigated how the teachers scaffold the students’ use of language, how their scaffolding pattern changes over time, and how students’ interaction patterns in the classroom change over time. In addition to teacher–student scaffolding patterns, student–student scaffolding was observed in a later classroom session. The findings indicate that teachers’ scaffolding patterns changed over time as shown in the three protocols. During the transition from Protocol 1, Protocol 2, Protocol 3, teacher–student scaffolding was gradually reduced as students had learned to produce their own dialogs. Further, peer-scaffolding was observed for the first time in Protocol 3. Although this musical project was quite challenging for the learners, the study shows that if sufficient scaffolding is provided, learners are clearly able to improve their current language level.
+ER  - 
+
+TY  - JOUR
+T1  - Do different modalities of reflection matter? An exploration of adult second-language learners' reported strategy use and oral language production
+AU  - Huang, Li-Shih
+JO  - System
+VL  - 38
+IS  - 2
+SP  - 245
+EP  - 261
+PY  - 2010
+DA  - 2010/06/01/
+SN  - 0346-251X
+DO  - https://doi.org/10.1016/j.system.2010.03.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0346251X10000254
+KW  - Speaking strategies
+KW  - Modalities of reflection
+KW  - Oral production
+KW  - English-as-a-second-language (ESL)/English-as-an-additional-language (EAL) learners
+AB  - This paper reports on a small-scale study that was the first to explore raising second-language (L2) learners' awareness of speaking strategies as mediated by three modalities of task-specific reflection—individual written reflection, individual spoken reflection, and group spoken reflection. Though research in such areas as L2 writing, teacher's development, and distance learning has supported the value of reflection, especially in the form of individual writing, no research has explored L2 learning through different types of reflection. The study examined 20 intermediate L2 learners' reported strategic behaviours, how the strategic behaviours differed depending on the particular modality of reflection they used, and the relationship between participants' reported strategic behaviours and their oral language production. From a pedagogical perspective, the findings offer instructors information about learners' strategic behaviours and about how various types of language-learning classrooms can incorporate different modalities of reflective practice that enable learners to develop a metacognitive awareness of their ongoing learning.
+ER  - 
+
+TY  - JOUR
+T1  - How Japanese teachers of English perceive non-native assistant English teachers
+AU  - Shibata, Miki
+JO  - System
+VL  - 38
+IS  - 1
+SP  - 124
+EP  - 133
+PY  - 2010
+DA  - 2010/03/01/
+SN  - 0346-251X
+DO  - https://doi.org/10.1016/j.system.2009.12.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0346251X09001493
+KW  - Assistant English teacher
+KW  - English as an international language
+KW  - Japanese EFL teachers
+KW  - Native English speakers
+KW  - Non-native English speakers
+KW  - World Englishes
+AB  - Considering the issue of World Englishes, the present study attempts to investigate whether Japanese teachers of English (JTEs) prefer assistant English teachers (AETs) with native-like pronunciation yet minor inappropriate grammar use or those with native-level grammar yet English recognizably accented by their native language, and to what extent JTEs give priority to native-like pronunciation in their teaching. Using a questionnaire, data were collected from 24 junior high and 51 high school JTEs. The major finding was that junior high JTEs appeared to approve of both types of AET, whereas their senior high counterparts tended to be reluctant to accept non-native speakers as AETs. The difference observed in the two subject groups may reflect their different pedagogical goals. Finally, the issue of non-native AETs relates to the dual roles of the English language: the pedagogical role as a school subject to be taught and the socio-cultural role in the international community. In order to support the dual perspectives of English, language policy makers are urged to propose roles and qualifications for AETs that will accommodate and cultivate a positive attitude toward World Englishes.
+ER  - 
+
+TY  - JOUR
+T1  - Online activities and writing practices of urban Malaysian adolescents
+AU  - Tan, Kok Eng
+AU  - Ng, Melissa L.Y.
+AU  - Saw, Kim Guan
+JO  - System
+VL  - 38
+IS  - 4
+SP  - 548
+EP  - 559
+PY  - 2010
+DA  - 2010/12/01/
+SN  - 0346-251X
+DO  - https://doi.org/10.1016/j.system.2010.09.014
+UR  - https://www.sciencedirect.com/science/article/pii/S0346251X10001144
+KW  - Adolescent literacy practices
+KW  - Writing practices
+KW  - Internet
+KW  - ESL
+AB  - Among a number of urban adolescents in Malaysia, going online is a much valued practice. They are regularly drawn to the Internet to engage in activities across school, nonschool, mainstream and alternative domains. The aim of this study is to know more about what these adolescents do online. Data on the online activities were collected from 535 adolescents (333 male and 202 female Year 10 students) in five urban secondary schools in Penang, Malaysia. It was found that while English was formally learnt as a second language in school, the percentages of language use on the Internet as indicated by them were: 77.06% in English, 8.16% in Bahasa Malaysia and 14.72% in Chinese. The participants’ Internet activities and popular websites showed their preference for entertainment and social networking. The overall trend was towards using the receptive skills of reading and listening rather than the productive skills of creating written output. Based on the trends observed, the paper concludes with some implications for ESL education, in Malaysia and other similar contexts.
+ER  - 
+
+TY  - JOUR
+T1  - Development of English language teaching reflection inventory
+AU  - Akbari, Ramin
+AU  - Behzadpoor, Foad
+AU  - Dadvand, Babak
+JO  - System
+VL  - 38
+IS  - 2
+SP  - 211
+EP  - 227
+PY  - 2010
+DA  - 2010/06/01/
+SN  - 0346-251X
+DO  - https://doi.org/10.1016/j.system.2010.03.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0346251X10000230
+KW  - Teacher reflection
+KW  - L2 teacher reflection
+KW  - Teacher reflection instrument
+KW  - Reflective teaching model
+AB  - The present study was carried out to develop and validate an L2 teacher reflection instrument. For this purpose, a six component model of second language (L2) teacher reflection, encompassing practical, cognitive, meta-cognitive, affective, critical and moral reflection, was developed using experts' opinion and a comprehensive review of the related literature. This initial model was then operationalized in an instrument consisting of 42 items, i.e. 7 behavioral items for each component. The piloting and testing of the tentative model through exploratory and confirmatory data analyses on a sample of 300 ESL teachers reduced the instrument to 29 items, removing the “morality” factor, and reducing the items in the “affective” factor to half.
+ER  - 
+
+TY  - JOUR
+T1  - The effects of direct and indirect speech acts on native English and ESL speakers’ perception of teacher written feedback
+AU  - Baker, Wendy
+AU  - Hansen Bricker, Rachel
+JO  - System
+VL  - 38
+IS  - 1
+SP  - 75
+EP  - 84
+PY  - 2010
+DA  - 2010/03/01/
+SN  - 0346-251X
+DO  - https://doi.org/10.1016/j.system.2009.12.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0346251X09001456
+KW  - Second language writing
+KW  - Written teacher feedback
+AB  - This study explores how second language (L2) learners perceive indirect (hedging or indirect speech acts) and direct written teacher feedback. Though research suggests that indirect speech acts may be more difficult to interpret than direct speech acts (Champagne, 2001, Holtgraves, 1999), using indirect speech acts is often encouraged in the learning process, with the idea that it helps students discover their own errors (Ferris, 2007, Riley and Mackiewitz, 2003;). However, it may not be effective with L2 learners who often need more explicit instruction to understand how to revise their writing (Ferris, 2002). To examine the effect of different directness types on identifying requested corrections, native and non-native English-speaking university students were given two essays that contained written teacher feedback that differed in its directness. Participants were asked to identify if the teacher comments were praise or criticism. Two response times and accuracy scores were calculated: one, as participants determined if the teacher comment requested a correction and two, as participants made corrections. After each essay, participants answered additional questions regarding the written teacher feedback. Results show that directness type affected how quickly and accurately participants responded to positive and negative teacher feedback.
+ER  - 
+
+TY  - JOUR
+T1  - Evaluation of a support intervention for senior secondary school English immersion
+AU  - Walker, Elizabeth
+JO  - System
+VL  - 38
+IS  - 1
+SP  - 50
+EP  - 62
+PY  - 2010
+DA  - 2010/03/01/
+SN  - 0346-251X
+DO  - https://doi.org/10.1016/j.system.2009.12.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0346251X09001432
+KW  - Senior secondary immersion
+KW  - Support programs
+KW  - Cognitive–academic language
+KW  - Scientific English
+KW  - Threshold specification
+AB  - This paper reports on part of an evaluation of a 2-year program providing preparatory support for 430 Cantonese Chinese-native-speaking students switching from Chinese to English-medium instruction late in their secondary schooling, mainly because of aspiration to English-medium tertiary study. Focusing quantitatively and qualitatively on scientific English achievement, the paper addresses the content or cognitive–academic dimension, so far as underrepresented in English-as-foreign-language research, as is senior secondary school immersion itself. While no direct cause-effect relationship between the program and achievement levels was to be claimed, the observed differences between program participants and non-participants were ultimately minimal. Reasons proposed for the intervention’s outcome seemed mainly related to key stakeholders’ apparent limited awareness of cognitive–academic language and its development. The discussion identifies factors arguably crucial for support programs for senior secondary school academic study through English-as-foreign-language.
+ER  - 
+
+TY  - JOUR
+T1  - English teachers' moderating and participating in OCPs
+AU  - Pino-Silva, Juan
+AU  - Mayora, Carlos A.
+JO  - System
+VL  - 38
+IS  - 2
+SP  - 262
+EP  - 271
+PY  - 2010
+DA  - 2010/06/01/
+SN  - 0346-251X
+DO  - https://doi.org/10.1016/j.system.2010.01.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0346251X10000278
+KW  - CMC
+KW  - OCP
+KW  - Roles
+KW  - E-moderation
+KW  - Participation
+KW  - Groupware
+KW  - Posting
+KW  - ESL/EFL
+KW  - Knowledge construction
+KW  - Language loss
+AB  - Online Communities of Practice (OCPs) are among the most accessible tools for EFL/ESL teachers' co-construction of knowledge and self-directed learning. Despite the welcomed proliferation of EFL/ESL teachers' OCPs, concomitant research on collaboration is noticeably lagging behind. The present paper is just a preliminary look at moderation and participation, two of the most salient roles of members in OCPs. The authors co-moderate a local Yahoo group of EFL teachers from Venezuela, and participate in an international Yahoo Group of EFL teachers from different countries and nationalities. By analyzing (a) the posts the authors wrote in each OCP and (b) the authors' introspective accounts completed for the purpose of this research, it appears that contrary to expectations there is not much difference in executing the roles of moderation and participation. Results indicate that, rather than changing their online behavior and style while embarking in the two tasks, each author appears to display similar behavioral tracts in both OCPs. Because English is the language of collaboration in both OCPs, results suggest that participation and moderation in OCPs may serve as a deterrent of language loss. The paper concludes with a call for more research on the role of EFL/ESL teacher–teacher interactions in OCPs.
+ER  - 
+
+TY  - JOUR
+T1  - The relationship between vocabulary size and depth for ESP/EAP learners
+AU  - Akbarian, Is’haaq
+JO  - System
+VL  - 38
+IS  - 3
+SP  - 391
+EP  - 401
+PY  - 2010
+DA  - 2010/09/01/
+SN  - 0346-251X
+DO  - https://doi.org/10.1016/j.system.2010.06.013
+UR  - https://www.sciencedirect.com/science/article/pii/S0346251X10000795
+KW  - Vocabulary size
+KW  - Vocabulary depth
+KW  - Relationship
+KW  - ESP/EAP learners
+AB  - Vocabulary knowledge occupies an important position in language learning. This study investigates the relationship between vocabulary size and depth for Iranian learners of English for specific/academic purposes (ESP/EAP). The participants include 112 ESP graduate students at a university in Iran. The findings from linear regression analyses show that, overall, VLT (size test) and WAT (depth test) have a great deal of common shared variance for these participants (R2=.746). However, when they were divided into low and high proficiency groups, based on whether the participants mastered the most frequent 2000 words in VLT, a substantial amount of shared variance was shown for the low group (R2=.464) and a much higher one for the high group (R2=.804). The findings suggest that vocabulary size and depth might be accounted for by the same factors, especially as the learners’ proficiency increases.
+ER  - 
