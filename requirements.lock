@@ -64,7 +64,7 @@ typing-extensions==4.13.0
     # via beautifulsoup4
 tzdata==2025.2
     # via pandas
-urllib3==2.3.0
+urllib3==1.26.20
     # via requests
 xlrd==2.0.1
     # via cmu-lcal-1st-year-benchmark
