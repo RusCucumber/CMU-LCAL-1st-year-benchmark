@@ -20,6 +20,8 @@ certifi==2025.1.31
     # via requests
 charset-normalizer==3.4.1
     # via requests
+et-xmlfile==2.0.0
+    # via openpyxl
 exceptiongroup==1.2.2
     # via anyio
 google-search-results==2.4.2
@@ -38,6 +40,8 @@ nest-asyncio==1.6.0
     # via semanticscholar
 numpy==2.2.4
     # via pandas
+openpyxl==3.1.5
+    # via cmu-lcal-1st-year-benchmark
 pandas==2.2.3
     # via cmu-lcal-1st-year-benchmark
 python-dateutil==2.9.0.post0
