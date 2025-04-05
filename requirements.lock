@@ -47,6 +47,8 @@ pytz==2025.2
 requests==2.32.3
     # via cmu-lcal-1st-year-benchmark
     # via google-search-results
+risparser==0.4.4
+    # via cmu-lcal-1st-year-benchmark
 semanticscholar==0.10.0
     # via cmu-lcal-1st-year-benchmark
 six==1.17.0
