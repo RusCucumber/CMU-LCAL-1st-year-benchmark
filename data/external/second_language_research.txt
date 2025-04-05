@@ -1,166 +1,166 @@
-TY  - JOUR
-T1  - Acquisition of L2 Japanese WH questions: Evidence of phonological contiguity and non-shallow structures
-AU  - Archibald, John
-AU  - Croteau, Nicole
-PY  - 2020
-N1  - doi: 10.1177/0267658319897786
-DO  - 10.1177/0267658319897786
-T2  - Second Language Research
-JF  - Second Language Research
-SP  -649
-EP - 31
-VL - 37
-IS - 4
-PB - SAGE Publications Ltd
-N2 - In this article we look at some of the structural properties of second language (L2) Japanese WH questions. In Japanese the WH words are licensed to remain in situ by the prosodic contiguity properties of the phrases which have no prosodic boundaries ...
-SN - 0267-6583
-M3  - doi: 10.1177/0267658319897786
-UR  - https://doi.org/https://doi.org/10.1177/0267658319897786
-Y2  - 2025/04/04
-ER  - 
+TY  - JOUR
+T1  - Acquisition of L2 Japanese WH questions: Evidence of phonological contiguity and non-shallow structures
+AU  - Archibald, John
+AU  - Croteau, Nicole
+PY  - 2020
+N1  - doi: 10.1177/0267658319897786
+DO  - 10.1177/0267658319897786
+T2  - Second Language Research
+JF  - Second Language Research
+SP  - 649
+EP  - 31
+VL  - 37
+IS  - 4
+PB  - SAGE Publications Ltd
+N2  - In this article we look at some of the structural properties of second language (L2) Japanese WH questions. In Japanese the WH words are licensed to remain in situ by the prosodic contiguity properties of the phrases which have no prosodic boundaries ...
+SN  - 0267-6583
+M3  - doi: 10.1177/0267658319897786
+UR  - https://doi.org/https://doi.org/10.1177/0267658319897786
+Y2  - 2025/04/04
+ER  - 
 
-TY  - JOUR
-T1  - Interpretation of Mandarin pronouns and reflexives by L1-Korean and L1-English learners of Mandarin
-AU  - Chen, Chung-yu
-AU  - Ionin, Tania
-PY  - 2022
-N1  - doi: 10.1177/02676583221103744
-DO  - 10.1177/02676583221103744
-T2  - Second Language Research
-JF  - Second Language Research
-SP  -941
-EP - 28
-VL - 39
-IS - 4
-PB - SAGE Publications Ltd
-N2 - This study investigates (1) whether second language learners (L2ers) acquire the Mandarin system of pronouns and reflexives despite differences from their first languages (L1s) and (2) whether L1-English and L1-Korean L2ers differ due to L1-transfer. ...
-SN - 0267-6583
-M3  - doi: 10.1177/02676583221103744
-UR  - https://doi.org/https://doi.org/10.1177/02676583221103744
-Y2  - 2025/04/04
-ER  - 
+TY  - JOUR
+T1  - Interpretation of Mandarin pronouns and reflexives by L1-Korean and L1-English learners of Mandarin
+AU  - Chen, Chung-yu
+AU  - Ionin, Tania
+PY  - 2022
+N1  - doi: 10.1177/02676583221103744
+DO  - 10.1177/02676583221103744
+T2  - Second Language Research
+JF  - Second Language Research
+SP  - 941
+EP  - 28
+VL  - 39
+IS  - 4
+PB  - SAGE Publications Ltd
+N2  - This study investigates (1) whether second language learners (L2ers) acquire the Mandarin system of pronouns and reflexives despite differences from their first languages (L1s) and (2) whether L1-English and L1-Korean L2ers differ due to L1-transfer. ...
+SN  - 0267-6583
+M3  - doi: 10.1177/02676583221103744
+UR  - https://doi.org/https://doi.org/10.1177/02676583221103744
+Y2  - 2025/04/04
+ER  - 
 
-TY  - JOUR
-T1  - Reference tracking in early stages of different modality L2 acquisition: Limited over-explicitness in novice ASL signers’ referring expressions
-AU  - Frederiksen, Anne Therese
-AU  - Mayberry, Rachel I.
-PY  - 2018
-N1  - doi: 10.1177/0267658317750220
-DO  - 10.1177/0267658317750220
-T2  - Second Language Research
-JF  - Second Language Research
-SP  -253
-EP - 31
-VL - 35
-IS - 2
-PB - SAGE Publications Ltd
-N2 - Previous research on reference tracking has revealed a tendency towards over-explicitness in second language (L2) learners. Only limited evidence exists that this trend extends to situations where the learner’s first and second languages do not share a ...
-SN - 0267-6583
-M3  - doi: 10.1177/0267658317750220
-UR  - https://doi.org/https://doi.org/10.1177/0267658317750220
-Y2  - 2025/04/04
-ER  - 
+TY  - JOUR
+T1  - Reference tracking in early stages of different modality L2 acquisition: Limited over-explicitness in novice ASL signers’ referring expressions
+AU  - Frederiksen, Anne Therese
+AU  - Mayberry, Rachel I.
+PY  - 2018
+N1  - doi: 10.1177/0267658317750220
+DO  - 10.1177/0267658317750220
+T2  - Second Language Research
+JF  - Second Language Research
+SP  - 253
+EP  - 31
+VL  - 35
+IS  - 2
+PB  - SAGE Publications Ltd
+N2  - Previous research on reference tracking has revealed a tendency towards over-explicitness in second language (L2) learners. Only limited evidence exists that this trend extends to situations where the learner’s first and second languages do not share a ...
+SN  - 0267-6583
+M3  - doi: 10.1177/0267658317750220
+UR  - https://doi.org/https://doi.org/10.1177/0267658317750220
+Y2  - 2025/04/04
+ER  - 
 
-TY  - JOUR
-T1  - Deriving meaning through context: Interpreting bare nominals in second language Japanese
-AU  - Gabriele, Alison
-PY  - 2010
-N1  - doi: 10.1177/0267658310365783
-DO  - 10.1177/0267658310365783
-T2  - Second Language Research
-JF  - Second Language Research
-SP  -379
-EP - 27
-VL - 26
-IS - 3
-PB - SAGE Publications Ltd
-N2 - Previous studies on the second language acquisition of telicity have suggested that learners can use morphosyntactic cues to interpret sentences as telic or atelic even in cases where the cues differ in the first language (L1) and second language (L2) (...
-SN - 0267-6583
-M3  - doi: 10.1177/0267658310365783
-UR  - https://doi.org/https://doi.org/10.1177/0267658310365783
-Y2  - 2025/04/04
-ER  - 
+TY  - JOUR
+T1  - Deriving meaning through context: Interpreting bare nominals in second language Japanese
+AU  - Gabriele, Alison
+PY  - 2010
+N1  - doi: 10.1177/0267658310365783
+DO  - 10.1177/0267658310365783
+T2  - Second Language Research
+JF  - Second Language Research
+SP  - 379
+EP  - 27
+VL  - 26
+IS  - 3
+PB  - SAGE Publications Ltd
+N2  - Previous studies on the second language acquisition of telicity have suggested that learners can use morphosyntactic cues to interpret sentences as telic or atelic even in cases where the cues differ in the first language (L1) and second language (L2) (...
+SN  - 0267-6583
+M3  - doi: 10.1177/0267658310365783
+UR  - https://doi.org/https://doi.org/10.1177/0267658310365783
+Y2  - 2025/04/04
+ER  - 
 
-TY  - JOUR
-T1  - Lexical accent perception in highly-proficient L2 Japanese learners: The roles of language-specific experience and domain-general resources
-AU  - Goss, Seth J.
-AU  - Tamaoka, Katsuo
-PY  - 2018
-N1  - doi: 10.1177/0267658318775143
-DO  - 10.1177/0267658318775143
-T2  - Second Language Research
-JF  - Second Language Research
-SP  -351
-EP - 26
-VL - 35
-IS - 3
-PB - SAGE Publications Ltd
-N2 - This article reports empirical findings on the roles of domain-general resources and language-specific experience in the second language (L2) acquisition of Japanese lexical pitch accent. Sixty-one advanced-proficiency L2 Japanese learners from two first ...
-SN - 0267-6583
-M3  - doi: 10.1177/0267658318775143
-UR  - https://doi.org/https://doi.org/10.1177/0267658318775143
-Y2  - 2025/04/04
-ER  - 
+TY  - JOUR
+T1  - Lexical accent perception in highly-proficient L2 Japanese learners: The roles of language-specific experience and domain-general resources
+AU  - Goss, Seth J.
+AU  - Tamaoka, Katsuo
+PY  - 2018
+N1  - doi: 10.1177/0267658318775143
+DO  - 10.1177/0267658318775143
+T2  - Second Language Research
+JF  - Second Language Research
+SP  - 351
+EP  - 26
+VL  - 35
+IS  - 3
+PB  - SAGE Publications Ltd
+N2  - This article reports empirical findings on the roles of domain-general resources and language-specific experience in the second language (L2) acquisition of Japanese lexical pitch accent. Sixty-one advanced-proficiency L2 Japanese learners from two first ...
+SN  - 0267-6583
+M3  - doi: 10.1177/0267658318775143
+UR  - https://doi.org/https://doi.org/10.1177/0267658318775143
+Y2  - 2025/04/04
+ER  - 
 
-TY  - JOUR
-T1  - Language-specific properties and overt pronoun interpretation:The case of L2 Japanese
-AU  - Nagano, Marisa
-AU  - Martohardjono, Gita
-PY  - 2023
-N1  - doi: 10.1177/02676583231195306
-DO  - 10.1177/02676583231195306
-T2  - Second Language Research
-JF  - Second Language Research
-SP  -959
-EP - 29
-VL - 40
-IS - 4
-PB - SAGE Publications Ltd
-N2 - Research on second language (L2) pronoun use in null-argument languages has traditionally focused on whether or not a speaker’s first language (L1) also allows null pronouns. However, recent studies have pointed out that it is equally important to ...
-SN - 0267-6583
-M3  - doi: 10.1177/02676583231195306
-UR  - https://doi.org/https://doi.org/10.1177/02676583231195306
-Y2  - 2025/04/04
-ER  - 
+TY  - JOUR
+T1  - Language-specific properties and overt pronoun interpretation:The case of L2 Japanese
+AU  - Nagano, Marisa
+AU  - Martohardjono, Gita
+PY  - 2023
+N1  - doi: 10.1177/02676583231195306
+DO  - 10.1177/02676583231195306
+T2  - Second Language Research
+JF  - Second Language Research
+SP  - 959
+EP  - 29
+VL  - 40
+IS  - 4
+PB  - SAGE Publications Ltd
+N2  - Research on second language (L2) pronoun use in null-argument languages has traditionally focused on whether or not a speaker’s first language (L1) also allows null pronouns. However, recent studies have pointed out that it is equally important to ...
+SN  - 0267-6583
+M3  - doi: 10.1177/02676583231195306
+UR  - https://doi.org/https://doi.org/10.1177/02676583231195306
+Y2  - 2025/04/04
+ER  - 
 
-TY  - JOUR
-T1  - What variables condition syntactic transfer? A look at the L3 initial state
-AU  - Rothman, Jason
-AU  - Cabrelli Amaro, Jennifer
-PY  - 2010
-N1  - doi: 10.1177/0267658309349410
-DO  - 10.1177/0267658309349410
-T2  - Second Language Research
-JF  - Second Language Research
-SP  -189
-EP - 30
-VL - 26
-IS - 2
-PB - SAGE Publications Ltd
-N2 - This study investigates transfer at the third-language (L3) initial state, testing between the following possibilities: (1) the first language (L1) transfer hypothesis (an L1 effect for all adult acquisition), (2) the second language (L2) transfer ...
-SN - 0267-6583
-M3  - doi: 10.1177/0267658309349410
-UR  - https://doi.org/https://doi.org/10.1177/0267658309349410
-Y2  - 2025/04/04
-ER  - 
+TY  - JOUR
+T1  - What variables condition syntactic transfer? A look at the L3 initial state
+AU  - Rothman, Jason
+AU  - Cabrelli Amaro, Jennifer
+PY  - 2010
+N1  - doi: 10.1177/0267658309349410
+DO  - 10.1177/0267658309349410
+T2  - Second Language Research
+JF  - Second Language Research
+SP  - 189
+EP  - 30
+VL  - 26
+IS  - 2
+PB  - SAGE Publications Ltd
+N2  - This study investigates transfer at the third-language (L3) initial state, testing between the following possibilities: (1) the first language (L1) transfer hypothesis (an L1 effect for all adult acquisition), (2) the second language (L2) transfer ...
+SN  - 0267-6583
+M3  - doi: 10.1177/0267658309349410
+UR  - https://doi.org/https://doi.org/10.1177/0267658309349410
+Y2  - 2025/04/04
+ER  - 
 
-TY  - JOUR
-T1  - Is cats one word or two? L2 learners&#x2019; processing of number marking in English from the viewpoints of form&#x2013;meaning mapping
-AU  - Tamura, Yu
-PY  - 2023
-N1  - doi: 10.1177/02676583231188933
-DO  - 10.1177/02676583231188933
-T2  - Second Language Research
-JF  - Second Language Research
-SP  -21
-EP - 26
-VL - 41
-IS - 1
-PB - SAGE Publications Ltd
-N2 - This study examined number marking comprehension among Japanese learners of second language (L2) English, whose first language (L1) does not have an obligatory number marking system. The study conducted an online sentence comprehension experiment with 96 ...
-SN - 0267-6583
-M3  - doi: 10.1177/02676583231188933
-UR  - https://doi.org/https://doi.org/10.1177/02676583231188933
-Y2  - 2025/04/04
-ER  - 
+TY  - JOUR
+T1  - Is cats one word or two? L2 learners&#x2019; processing of number marking in English from the viewpoints of form&#x2013;meaning mapping
+AU  - Tamura, Yu
+PY  - 2023
+N1  - doi: 10.1177/02676583231188933
+DO  - 10.1177/02676583231188933
+T2  - Second Language Research
+JF  - Second Language Research
+SP  - 21
+EP  - 26
+VL  - 41
+IS  - 1
+PB  - SAGE Publications Ltd
+N2  - This study examined number marking comprehension among Japanese learners of second language (L2) English, whose first language (L1) does not have an obligatory number marking system. The study conducted an online sentence comprehension experiment with 96 ...
+SN  - 0267-6583
+M3  - doi: 10.1177/02676583231188933
+UR  - https://doi.org/https://doi.org/10.1177/02676583231188933
+Y2  - 2025/04/04
+ER  - 
 

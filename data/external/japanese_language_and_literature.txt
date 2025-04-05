@@ -1,6 +1,4 @@
-Provider: JSTOR http://www.jstor.org
-Database: JSTOR
-Content: text/plain; charset="UTF-8"
+
 
 
 TY  - JOUR
@@ -24,9 +22,7 @@ ER  -
 
 
 
-Provider: JSTOR http://www.jstor.org
-Database: JSTOR
-Content: text/plain; charset="UTF-8"
+
 
 
 TY  - JOUR
@@ -50,9 +46,7 @@ ER  -
 
 
 
-Provider: JSTOR https://www.jstor.org
-Database: JSTOR
-Content: text/plain; charset="UTF-8"
+
 
 
 TY  - JOUR
@@ -75,9 +69,7 @@ ER  -
 
 
 
-Provider: JSTOR http://www.jstor.org
-Database: JSTOR
-Content: text/plain; charset="UTF-8"
+
 
 
 TY  - JOUR
@@ -101,9 +93,7 @@ ER  -
 
 
 
-Provider: JSTOR http://www.jstor.org
-Database: JSTOR
-Content: text/plain; charset="UTF-8"
+
 
 
 TY  - JOUR
@@ -129,9 +119,7 @@ ER  -
 
 
 
-Provider: JSTOR http://www.jstor.org
-Database: JSTOR
-Content: text/plain; charset="UTF-8"
+
 
 
 TY  - JOUR
@@ -155,9 +143,7 @@ ER  -
 
 
 
-Provider: JSTOR http://www.jstor.org
-Database: JSTOR
-Content: text/plain; charset="UTF-8"
+
 
 
 TY  - JOUR
@@ -179,9 +165,7 @@ ER  -
 
 
 
-Provider: JSTOR http://www.jstor.org
-Database: JSTOR
-Content: text/plain; charset="UTF-8"
+
 
 
 TY  - JOUR
@@ -203,9 +187,7 @@ ER  -
 
 
 
-Provider: JSTOR http://www.jstor.org
-Database: JSTOR
-Content: text/plain; charset="UTF-8"
+
 
 
 TY  - JOUR
