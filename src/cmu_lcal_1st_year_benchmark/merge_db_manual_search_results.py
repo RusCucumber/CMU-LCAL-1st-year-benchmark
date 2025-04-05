@@ -19,6 +19,19 @@ def load_dataset(config: Config) -> Dict[str, pd.DataFrame]:
     }
     return dataset
 
+def preprocess_abstract(abstract: str) -> str:
+    if pd.isna(abstract):
+        return ""
+    abstract_processed = abstract.replace("\n", " ")
+    abstract_processed = abstract_processed.replace("\t", " ")
+
+    while "  " in abstract_processed:
+        abstract_processed = abstract_processed.replace("  ", " ")
+
+    abstract_processed = abstract_processed.strip()
+
+    return abstract_processed
+
 def preprocess_db_search_result(df_result: pd.DataFrame) -> pd.DataFrame:
     mask_duplicated = (df_result["is_duplicated"] == 1)
 
@@ -27,6 +40,8 @@ def preprocess_db_search_result(df_result: pd.DataFrame) -> pd.DataFrame:
     df_result_processed = df_result_processed.reset_index(drop=True)
 
     df_result_processed = df_result_processed.drop("is_duplicated", axis=1)
+
+    df_result_processed.loc[:, "abstract"] = df_result_processed["abstract"].apply(preprocess_abstract)
 
     return df_result_processed
 
