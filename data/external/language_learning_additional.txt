@@ -1,0 +1,183 @@
+
+TY  - JOUR
+AU  - Geyer, Naomi
+TI  - Self-qualification in L2 Japanese: An Interface of Pragmatic, Grammatical, and Discourse Competences
+JO  - Language Learning
+VL  - 57
+IS  - 3
+SN  - 0023-8333
+UR  - https://doi.org/10.1111/j.1467-9922.2007.00419.x
+DO  - https://doi.org/10.1111/j.1467-9922.2007.00419.x
+SP  - 337
+EP  - 367
+KW  - interlanguage pragmatics
+KW  - pragmatics and grammar
+KW  - communicative competence
+KW  - Japanese discourse
+KW  - oral proficiency interview
+KW  - qualification
+KW  - contrastive expressions
+PY  - 2007
+AB  - In Japanese, self-qualification, or a qualifying segment of talk that reduces the force of the speaker's own utterances, is frequently introduced with contrastive markers, such as demo, kedo, and ga. This study explores the relationship between the grammatical and pragmatic competence of Japanese L2 learners by examining their use of such self-qualification in a corpus of oral proficiency interviews. It demonstrates that successful self-qualification is achieved not only by the placement of appropriate connective expressions but also through effective use of foregrounding and/or backgrounding discourse mechanisms. The results indicate a close relationship between pragmatic, grammatical, and discourse competence in learner language.
+ER  - 
+
+TY  - JOUR
+AU  - Davis, John McE.
+TI  - Resistance to L2 Pragmatics in the Australian ESL Context
+JO  - Language Learning
+VL  - 57
+IS  - 4
+SN  - 0023-8333
+UR  - https://doi.org/10.1111/j.1467-9922.2007.00430.x
+DO  - https://doi.org/10.1111/j.1467-9922.2007.00430.x
+SP  - 611
+EP  - 649
+KW  - pragmatics
+KW  - routines
+KW  - resistance
+KW  - attitude
+KW  - study-abroad
+KW  - Korean ESL learners
+PY  - 2007
+AB  - The study examines how learner biases toward a particular national type of English affect interlanguage pragmatics. Specifically, this study assesses the degree to which Korean ESL (English as a second language) students' preferences for North American English influence their willingness to use Australian-English routines while studying in Australia. Research suggests that attitudinal factors in high-proficiency students can affect second language (L2) pragmatic production in important ways, students at times rejecting or resisting undesirable L2 pragmatic forms (Cohen, 1997; Hinkel, 1996; LoCastro, 2001; Siegal, 1995, 1996). Quantitative and qualitative data were collected from a group of 20 Korean ESL students studying at language institutes and universities around Melbourne. Findings suggest that there is some avoidance of Australian routines by Korean ESL learners and that this avoidance represents resistance to Australian-English pragmatic norms.
+ER  - 
+
+TY  - JOUR
+AU  - Taguchi, Naoko
+TI  - Cognition, Language Contact, and the Development of Pragmatic Comprehension in a Study-Abroad Context
+JO  - Language Learning
+VL  - 58
+IS  - 1
+SN  - 0023-8333
+UR  - https://doi.org/10.1111/j.1467-9922.2007.00434.x
+DO  - https://doi.org/10.1111/j.1467-9922.2007.00434.x
+SP  - 33
+EP  - 71
+KW  - pragmatics
+KW  - conversational implicatures
+KW  - speech acts
+KW  - study-abroad
+KW  - English as a second language
+KW  - learning context
+KW  - language contact
+KW  - lexical access
+KW  - listening
+KW  - accuracy and fluency
+KW  - interlanguage pragmatics
+KW  - longitudinal study
+PY  - 2008
+AB  - This study examined two issues: (a) whether there are gains in accurate and speedy comprehension of second language (L2) pragmatic meaning over time and (b) whether the gains are associated with cognitive processing ability and the amount of language contact in an L2 environment. Forty-four college students in a US institution completed three measures three times over a 4-month period: (a) the pragmatic listening test that measured the ability to comprehend implied speaker intentions, (b) the lexical access test that measured ability to make speedy semantic judgment, and (c) the language contact survey that examined the amount of time learners spent in L2 outside the class. The learners' pragmatic comprehension was analyzed for accuracy (the scores on the pragmatic listening test) and comprehension speed (the average time taken to answer items correctly). Results showed that the learners made significant improvement on comprehension speed but not on accuracy of comprehension. Lexical access speed was significantly correlated with comprehension speed but not with accuracy. The amount of speaking and reading outside class that the students reported on the language contact survey significantly correlated with the gains in comprehension speed but not with accuracy of comprehension.
+ER  - 
+
+TY  - JOUR
+AU  - Kasper, Gabriele
+AU  - Rose, Kenneth R.
+TI  - Approaches to Developmental Pragmatics Research
+JO  - Language Learning
+VL  - 52
+IS  - s1
+SN  - 0023-8333
+UR  - https://doi.org/10.1111/j.1467-1770.2002.tb00024.x
+DO  - https://doi.org/10.1111/j.1467-1770.2002.tb00024.x
+SP  - 63
+EP  - 116
+PY  - 2002
+ER  - 
+
+TY  - JOUR
+AU  - Kasper, Gabriele
+AU  - Rose, Kenneth R.
+TI  - Theories of Second Language Pragmatic Development
+JO  - Language Learning
+VL  - 52
+IS  - s1
+SN  - 0023-8333
+UR  - https://doi.org/10.1111/j.1467-1770.2002.tb00023.x
+DO  - https://doi.org/10.1111/j.1467-1770.2002.tb00023.x
+SP  - 13
+EP  - 62
+PY  - 2002
+ER  - 
+
+TY  - JOUR
+AU  - Lee, EunHee
+AU  - Kim, Hae-Young
+TI  - On Crosslinguistic Variations in Imperfective Aspect: The Case of L2 Korean
+JO  - Language Learning
+VL  - 57
+IS  - 4
+SN  - 0023-8333
+UR  - https://doi.org/10.1111/j.1467-9922.2007.00431.x
+DO  - https://doi.org/10.1111/j.1467-9922.2007.00431.x
+SP  - 651
+EP  - 685
+KW  - Korean tense and aspect
+KW  - L2 tense and aspect
+KW  - imperfective markers
+KW  - cross-linguistic variation
+KW  - prototype account
+KW  - congruence principle
+KW  - input distribution and frequency
+KW  - one-to-one principle
+KW  - individual variation
+PY  - 2007
+AB  - This article examines the acquisition of Korean imperfective markers, the progressive -ko iss- and the resultative -a iss-, with a view to understanding how tense/aspect morphology expands beyond prototype associations with inherent aspects of the verbs. We hypothesized that -a iss- will develop later than -ko iss-, but that the development of -a iss- will precede or coincide with the expansion of -ko iss- marking for result state meaning. Cross-sectional data were collected from 120 learners of second language Korean using a sentence interpretation task and a guided picture description task. The results support our hypothesized acquisition route of imperfective markers, establishing dynamic durativity as the prototypical meaning of the Korean imperfective -ko iss- and suggesting individual variation in expanding the prototype.
+ER  - 
+
+TY  - JOUR
+AU  - Muranoi, Hitoshi
+TI  - Focus on Form Through Interaction Enhancement: Integrating Formal Instruction Into a Communicative Task in EFL Classrooms
+JO  - Language Learning
+VL  - 50
+IS  - 4
+SN  - 0023-8333
+UR  - https://doi.org/10.1111/0023-8333.00142
+DO  - https://doi.org/10.1111/0023-8333.00142
+SP  - 617
+EP  - 673
+PY  - 2000
+AB  - This study examines the impact of interaction enhancement (IE) on the learning of English articles. IE is a treatment that guides learners to focus on form by providing interactional modifications and leads learners to produce modified output within a problem-solving task (strategic interaction). Two different IE treatments were employed: IE plus formal debriefing (IEF), and IE plus meaning-focused debriefing (IEM). Outcomes of these treatments were compared with the effects of non-enhanced interaction in a quasi-experimental study involving 91 Japanese EFL learners. Progress was measured with a pretest and two post-tests, yielding these major findings: (1) IE had positive effects on the learning of English articles; (2) the IEF treatment had a greater impact than the IEM treatment.
+ER  - 
+
+TY  - JOUR
+AU  - Dunn, William E. 
+AU  - Lantolf, James P. 
+TI  - Vygotsky's Zone of Proximal Development and Krashen's i+1: Incommensurable Constructs; Incommensurable Theories
+JO  - Language Learning
+VL  - 48
+IS  - 3
+SN  - 0023-8333
+UR  - https://doi.org/10.1111/0023-8333.00048
+DO  - https://doi.org/10.1111/0023-8333.00048
+SP  - 411
+EP  - 442
+PY  - 1998
+AB  - Second language scholars, in public research and in public discussions,have suggested that Krashen's construct of i+1is similar to Vygotsky's zone of proximal development and that it might therefore befeasible to integrate the two constructs in a way that would be productive for second languageacquisition (SLA) research. After surveying publications relevant to the issue, we argue that thisenterprise is futile, not only because the concepts are unrelatable, but also because they arerooted in incommensurable theoretical discourses. We also propose a way in which SLAresearch and theory might deal with incommensurability.
+ER  - 
+
+TY  - JOUR
+AU  - Dewaele, Jean-Marc
+AU  - Petrides, K. V.
+AU  - Furnham, Adrian
+TI  - Effects of Trait Emotional Intelligence and Sociobiographical Variables on Communicative Anxiety and Foreign Language Anxiety Among Adult Multilinguals: A Review and Empirical Investigation
+JO  - Language Learning
+VL  - 58
+IS  - 4
+SN  - 0023-8333
+UR  - https://doi.org/10.1111/j.1467-9922.2008.00482.x
+DO  - https://doi.org/10.1111/j.1467-9922.2008.00482.x
+SP  - 911
+EP  - 960
+KW  - trait emotional self-efficacy
+KW  - TEIQue
+KW  - bilingualism and emotion
+KW  - number of languages known
+KW  - age of onset of acquisition
+KW  - context of acquisition
+KW  - frequency of use
+KW  - L2 socialization
+KW  - network of interlocutors
+KW  - self-perceived proficiency
+PY  - 2008
+AB  - This study considered the effects of trait emotional intelligence (trait EI; Petrides & Mavroveli, 2007) and sociobiographical variables (age, gender, education level, number of languages known, age of onset of acquisition, context of acquisition, frequency of use, socialization, network of interlocutors, self-perceived proficiency) on communicative anxiety (CA) in the first language and on foreign language anxiety (FLA) in the second, third, and fourth languages of 464 multilingual individuals, in five different situations (speaking with friends, colleagues, strangers, on the phone, and in public). Data were collected via Web-based questionnaires. Participants were divided into three groups based on their trait EI scores (low, average, high). Nonparametric statistical analyses revealed a consistent pattern of results across languages and situations. Higher levels of trait EI corresponded to significantly lower CA/FLA scores. Participants who started learning the second and third languages at a younger age also suffered less from FLA. Purely classroom-based language instruction was found to be linked to higher levels of FLA compared to instruction that also involved extracurricular use of the language. The knowledge of more languages, a higher frequency of use, a stronger socialization in a language, a larger network of interlocutors, and a higher level of self-perceived proficiency in a language were also linked to lower levels of CA/FLA.
+ER  - 

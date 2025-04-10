@@ -1,0 +1,33 @@
+
+TY  - JOUR
+TI  - Contents of Volume 41 (2008)
+JO  - Foreign Language Annals
+VL  - 42
+IS  - 2
+SN  - 0015-718X
+UR  - https://doi.org/10.1111/j.1944-9720.2009.01028.x
+DO  - https://doi.org/10.1111/j.1944-9720.2009.01028.x
+SP  - 391
+EP  - 392
+PY  - 2009
+ER  - 
+
+TY  - JOUR
+AU  - Adachi, Takanori
+TI  - Memory of Socially-Obtained Information Versus Non-Socially-Obtained Information
+JO  - Foreign Language Annals
+VL  - 38
+IS  - 4
+SN  - 0015-718X
+UR  - https://doi.org/10.1111/j.1944-9720.2005.tb02518.x
+DO  - https://doi.org/10.1111/j.1944-9720.2005.tb02518.x
+SP  - 514
+EP  - 522
+KW  - event
+KW  - human
+KW  - memory
+KW  - social
+KW  - vocabulary
+PY  - 2005
+AB  - Abstract: This study investigates whether ?socialness? increases the memorability of newly acquired knowledge of a second language (L2). Three groups of beginning learners of Japanese learned 10 novel Japanese words through a Q & A session. Group 1 did the session with a human interactant and learned the novel words from him. Group 2 did the session alone with a tape-recorded voice and learned the words from the voice on tape. Group 3 did the session alone with a booklet and a dictionary. Forty-five minutes after the session, the subjects' memories for (a) the learning event (i.e., the semantic content of the questions asked), (b) the phonological form of the novel words, and (c) the form?meaning association were assessed through a series of posttests. The results indicated only a nonstatistically significant trend supporting the idea that socialness increases the memorability of newly acquired knowledge of an L2.
+ER  - 
