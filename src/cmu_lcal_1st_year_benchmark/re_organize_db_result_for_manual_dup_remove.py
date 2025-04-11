@@ -97,6 +97,32 @@ def filter_ineligible_year_records(df_db_result: pd.DataFrame, eligible_year: in
 
     return df_db_result_filtered
 
+def remove_doi_duplicated(df_result_merged: pd.DataFrame) -> pd.DataFrame:
+    search_method_priority = {
+        "llba": 0,
+        "eric": 1,
+        "psycinfo": 2,
+        "proquest": 3,
+        "ancestry": 4,
+        "forward": 5,
+        "apa": 6,
+        "google": 7
+    }
+
+    df_result_merged_sorted = df_result_merged.sort_values(
+        "search_method",
+        key=lambda col: col.map(search_method_priority)
+    ).reset_index(drop=True)
+
+    mask_doi_duplicate = df_result_merged_sorted.duplicated(subset="doi", keep="first")
+    mask_doi_is_nan = df_result_merged_sorted["doi"].isna() | (df_result_merged_sorted["doi"] == "")
+    mask_doi = mask_doi_duplicate & (~mask_doi_is_nan) # doi が重複しており，かつ nan でない箇所
+    print(f"{mask_doi.sum()} duplicated records were detected!")
+
+    df_result_merged_unique = df_result_merged_sorted[~mask_doi].reset_index(drop=True)
+
+    return df_result_merged_unique
+
 def sort_records(df_db_result: pd.DataFrame) -> pd.DataFrame:
     df_db_result_sorted = df_db_result.sort_values(by=["authors", "year", "title"])
     df_db_result_sorted = df_db_result_sorted.reset_index(drop=True)
@@ -113,9 +139,10 @@ def main() -> None:
     df_merged = merge_datasets(additional_results)
 
     df_merged = filter_ineligible_year_records(df_merged, config.eligible_pub_year)
+    df_merged = remove_doi_duplicated(df_merged)
     df_merged = sort_records(df_merged)
 
-    df_merged.to_csv(config.processed_data_dir / "additional_db_search_records.csv", index=False)
+    df_merged.to_csv(config.processed_data_dir / "additional_db_search_records.csv", index=False, encoding="utf-16")
 
 if __name__ == "__main__":
     main()
