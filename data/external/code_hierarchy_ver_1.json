@@ -1,0 +1,111 @@
+{
+    "Target Feature": {
+        "Pragmatic Target": {
+            "Particle": [
+                "Honorific/Plain Styles",
+                "Interactional Discourse Marker",
+                "Interactional Sentence Final Particle"
+            ],
+            "Others": [
+                "Reactive Tokens",
+                "Hearsay Evidential Marker",
+                "Small Talk"
+            ]
+        }
+    },
+    "Instructional Feature": {
+        "Input Materials": {
+            "Text": [
+                "Text Blogs",
+                "Text News Articles",
+                "Emails",
+                "Reading Exercise",
+                "Text Transcription of Monologue",
+                "Text Transcription of L1 Interaction",
+                "Text Dialogue",
+                "Text Sentence"
+            ],
+            "Aural": [
+                "Oral Interaction Video",
+                "Oral Interaction between L1",
+                "Oral L1 Utterance"
+            ]
+        },
+        "Production Task": {
+            "Oral": {
+                "Conversation Task": [
+                    "Oral Unscripted Interaction with L1s",
+                    "Oral Unscripted Interaction with L2s",
+                    "Small Talk with L2s",
+                    "Oral Story Telling Task with an L1"
+                ],
+                "Role Plays": [
+                    "Oral Role-plays with an L2",
+                    "Oral Role-plays with an L1"
+                ],
+                "Translation": [
+                    "Oral Translation"
+                ]
+            },
+            "Written": {
+                "Naturally Occurring Data": [
+                    "Email Correspondence"
+                ],
+                "Discourse Completion Task": [
+                    "Discourse Completion Task"
+                ],
+                "Translation": [
+                    "Text Translation"
+                ],
+                "Not Specified": [
+                    "Writing Exercise"
+                ]
+            }
+        }
+    },
+    "Assessment Feature": {
+        "Production": {
+            "Oral": {
+                "Conversation Task": [
+                    "Oral Spontaneous Interaction",
+                    "Oral Proficiency Interview",
+                    "Oral Storytelling Task"
+                ],
+                "Role Plays": [
+                    "Role-plays"
+                ],
+                "Discourse Completion Task": [
+                    "Oral Discourse Completion Task"
+                ]
+            },
+            "Written": {
+                "Naturally Occurring Data": [
+                    "Email Correspondence"
+                ],
+                "Discourse Completion Task": [
+                    "Discourse Completion Task"
+                ],
+                "Translation": [
+                    "Text Translation Task"
+                ]
+            }
+        },
+        "Comprehension/Perception": {
+            "Comprehension": [
+                "Video-based Meaning Asking Task"
+            ],
+            "Perception": [
+                "Metapragmatic Knowledge Explanation Task",
+                "Acceptability Judgment",
+                "Multiple-Choice Tests"
+            ]
+        },
+        "Decision Making": [
+            "Retrospective Interview",
+            "Metacognitive Strategy Questionnaire"
+        ],
+        "Self-Evaluation": [
+            "Self-evaluation"
+        ]
+    }
+}
